@@ -1,8 +1,8 @@
 {
  "docket_id": 73205273,
- "last_fetched": "2026-06-04T12:40:09-04:00",
- "last_entry_number": 410,
- "total_entries": 448,
+ "last_fetched": "2026-06-04T17:45:36-04:00",
+ "last_entry_number": 418,
+ "total_entries": 456,
  "classified_entries": [
   {
    "entry_number": 0,
@@ -1408,6 +1408,54 @@
     {
      "url": "https://www.courtlistener.com/docket/73205273/401/qvc-group-inc/",
      "description": ""
+    }
+   ]
+  },
+  {
+   "entry_number": 412,
+   "date_filed": "2026-06-04",
+   "description": "Affidavit Re: of Nelson Crespin Regarding Debtors Witness List for the May 18, 2026 Hearing on the Emergency Motion of the Preferred Shareholders to Terminate Exclusivity Under 11 U.S.C. \u00a7 1121(d), an",
+   "category": "affidavit",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/412/qvc-group-inc/",
+     "description": "Affidavit"
+    }
+   ]
+  },
+  {
+   "entry_number": 413,
+   "date_filed": "2026-06-04",
+   "description": "Sealed Document Opening Confirmation Hearing Demonstrative (Filed By Certain Preferred Shareholders of QVC Group, Inc. ). (Taylor, Mark) (Entered: 06/04/2026)",
+   "category": "confirmation",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/413/qvc-group-inc/",
+     "description": ""
+    }
+   ]
+  },
+  {
+   "entry_number": 414,
+   "date_filed": "2026-06-04",
+   "description": "Motion to Seal Opening Confirmation Hearing Demonstrative Filed by Interested Party Certain Preferred Shareholders of QVC Group, Inc. (Attachments: # 1 Proposed Order) (Taylor, Mark) (Entered: 06/04/2",
+   "category": "confirmation",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/414/qvc-group-inc/",
+     "description": "Seal Document Motion or Other Pleading"
+    }
+   ]
+  },
+  {
+   "entry_number": 416,
+   "date_filed": "2026-06-04",
+   "description": "Affidavit Re: of Sonia Akter Regarding Stipulation and Order Establishing Certain Confirmation-Related Dates. (related document(s):327 Order Setting Hearing (FORM)). Filed by Kroll Restructuring Admin",
+   "category": "affidavit",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/416/qvc-group-inc/",
+     "description": "Affidavit"
     }
    ]
   }
