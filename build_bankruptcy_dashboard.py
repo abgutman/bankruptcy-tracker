@@ -4,14 +4,13 @@ import json, html as html_mod
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
 
-import sys, os
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 from auth_gate import inject_auth
 
 ET = timezone(timedelta(hours=-4))
 
 HERE = Path(__file__).parent
 BD = HERE / "bankruptcy_data"
+ENTRIES_DIR = BD / "docket_entries"
 CASES_FILE = BD / "cases.json"
 OUT_FILE = HERE / "bankruptcy_dashboard.html"
 
@@ -46,9 +45,15 @@ def build():
         if c.get("pacer_url"):
             links.append(f'<a href="{esc(c["pacer_url"])}" target="_blank">PACER</a>')
 
+        debtor_display = esc(c.get("debtor_name", c.get("case_name", "")))
+        docket_id = str(c.get("docket_id", ""))
+        has_details = (ENTRIES_DIR / f"{docket_id}.json").exists()
+        if has_details:
+            debtor_display = f'<a href="bankruptcy_cases/{docket_id}.html">{debtor_display}</a>'
+
         table_rows.append(f"""      <tr>
         <td>{esc(fmt_date(c.get("date_filed")))}{badge}</td>
-        <td class="debtor-name">{esc(c.get("debtor_name", c.get("case_name", "")))}</td>
+        <td class="debtor-name">{debtor_display}</td>
         <td>{esc(c.get("docket_number", ""))}</td>
         <td>{esc(c.get("court", ""))}</td>
         <td>{esc(c.get("debtor_region", ""))}</td>
@@ -96,7 +101,7 @@ def build():
 <div style="position:fixed;right:0;top:50%;transform:translateY(-50%);background:#c0392b;color:white;padding:12px 8px;font-size:11px;font-weight:700;letter-spacing:1px;writing-mode:vertical-rl;text-orientation:mixed;z-index:9999;border-radius:4px 0 0 4px;box-shadow:-2px 0 8px rgba(0,0,0,0.2);">AI-BUILT DASHBOARD &mdash; NEVER CITE DIRECTLY &mdash; ALWAYS CHECK THE DOCKET</div>
 
 <div class="header">
-  <h1>Bankruptcy Tracker <img src="https://media.giphy.com/media/8nM6YNtvjuezzD7DNh/giphy.gif" style="height:36px;border-radius:6px;vertical-align:middle;margin-left:8px;"></h1>
+  <h1>Bankruptcy Tracker <img src="https://media.giphy.com/media/8nM6YNtvjuezzD7DNh/giphy.gif" style="height:64px;border-radius:6px;vertical-align:middle;margin-left:8px;"></h1>
   <p>Chapter 11 filings from the Philadelphia region &middot; All federal courts &middot; Updated {updated}</p>
 </div>
 
