@@ -1,8 +1,8 @@
 {
  "docket_id": 73205273,
- "last_fetched": "2026-06-05T11:51:18-04:00",
- "last_entry_number": 434,
- "total_entries": 471,
+ "last_fetched": "2026-06-05T17:38:35-04:00",
+ "last_entry_number": 441,
+ "total_entries": 477,
  "classified_entries": [
   {
    "entry_number": 0,
@@ -1455,6 +1455,30 @@
    "recap_documents": [
     {
      "url": "https://www.courtlistener.com/docket/73205273/416/qvc-group-inc/",
+     "description": "Affidavit"
+    }
+   ]
+  },
+  {
+   "entry_number": 435,
+   "date_filed": "2026-06-05",
+   "description": "Affidavit Re: of Sonia Akter Regarding Debtors Witness and Exhibit Lists for Hearing Scheduled for June 4, 2026, at 1:00 p.m. (CT). (related document(s):340 Notice, 341 Notice, 342 Notice). Filed by K",
+   "category": "affidavit",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/435/qvc-group-inc/",
+     "description": "Affidavit"
+    }
+   ]
+  },
+  {
+   "entry_number": 435,
+   "date_filed": "2026-06-05",
+   "description": "Affidavit Re: of Sonia Akter Regarding Debtors Witness and Exhibit Lists for Hearing Scheduled for June 4, 2026, at 1:00 p.m. (CT). (related document(s):340 Notice, 341 Notice, 342 Notice). Filed by K",
+   "category": "341_meeting",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/435/qvc-group-inc/",
      "description": "Affidavit"
     }
    ]
