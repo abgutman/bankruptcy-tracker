@@ -276,3 +276,29 @@
 [2026-06-06 10:24:34 ET]   Trinseo PLC: 1 entries fetched, 0 classified, 64 total classified
 [2026-06-06 10:24:34 ET] === Done fetching docket entries ===
 
+[2026-06-06 17:08:50 ET] === Poll start (since 2026-06-06, live=True) ===
+[2026-06-06 17:08:50 ET]   fetching search page: ...?q=chapter%3A11&type=d&filed_after=2026-06-06&order_by=dateFiled+asc&format=json
+[2026-06-06 17:08:52 ET]   checked 2 dockets, fetched 2 party records, 0 new local hits
+[2026-06-06 17:08:52 ET] === Poll done. 0 new local hits. ===
+
+[2026-06-06 17:08:52 ET] === Fetching docket entries for 9 case(s) ===
+[2026-06-06 17:08:52 ET]   fetching entries page 1: ...t-entries/?docket=73154006&order_by=entry_number&format=json&entry_number__gt=61
+[2026-06-06 17:08:54 ET]   Erie Kash Out Properties, LLC: 0 entries fetched, 0 classified, 12 total classified
+[2026-06-06 17:08:54 ET]   fetching entries page 1: ...t-entries/?docket=73165305&order_by=entry_number&format=json&entry_number__gt=17
+[2026-06-06 17:08:55 ET]   EEW AOS Paulsboro Urban Renewal, LLC: 0 entries fetched, 0 classified, 2 total classified
+[2026-06-06 17:08:55 ET]   fetching entries page 1: ...-entries/?docket=73165199&order_by=entry_number&format=json&entry_number__gt=134
+[2026-06-06 17:09:02 ET]   EEW American Offshore Structures Inc., et al: 0 entries fetched, 0 classified, 59 total classified
+[2026-06-06 17:09:02 ET]   fetching entries page 1: ...t-entries/?docket=73184787&order_by=entry_number&format=json&entry_number__gt=33
+[2026-06-06 17:09:04 ET]   DILLING PA, LLC d/b/a DILLING HEATING AND COOLING: 0 entries fetched, 0 classified, 9 total classified
+[2026-06-06 17:09:04 ET]   fetching entries page 1: ...-entries/?docket=73205273&order_by=entry_number&format=json&entry_number__gt=449
+[2026-06-06 17:09:15 ET]   QVC Group, Inc.: 0 entries fetched, 0 classified, 123 total classified
+[2026-06-06 17:09:15 ET]   fetching entries page 1: ...t-entries/?docket=73204528&order_by=entry_number&format=json&entry_number__gt=87
+[2026-06-06 17:09:17 ET]   PELCO BUILDERS, INC.: 0 entries fetched, 0 classified, 12 total classified
+[2026-06-06 17:09:17 ET]   fetching entries page 1: ...t-entries/?docket=73209855&order_by=entry_number&format=json&entry_number__gt=62
+[2026-06-06 17:09:18 ET]   RMG Erectors & Constructors of Montana, LLC: 0 entries fetched, 0 classified, 30 total classified
+[2026-06-06 17:09:18 ET]   fetching entries page 1: ...t-entries/?docket=73294617&order_by=entry_number&format=json&entry_number__gt=15
+[2026-06-06 17:09:20 ET]   ONE DOORKNOB AT A TIME, LLC: 0 entries fetched, 0 classified, 7 total classified
+[2026-06-06 17:09:20 ET]   fetching entries page 1: ...-entries/?docket=73388469&order_by=entry_number&format=json&entry_number__gt=195
+[2026-06-06 17:09:23 ET]   Trinseo PLC: 0 entries fetched, 0 classified, 64 total classified
+[2026-06-06 17:09:23 ET] === Done fetching docket entries ===
+
