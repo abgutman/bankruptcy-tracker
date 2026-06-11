@@ -1,8 +1,8 @@
 {
  "docket_id": 73388469,
- "last_fetched": "2026-06-11T12:44:56-04:00",
- "last_entry_number": 206,
- "total_entries": 214,
+ "last_fetched": "2026-06-11T18:05:56-04:00",
+ "last_entry_number": 210,
+ "total_entries": 218,
  "classified_entries": [
   {
    "entry_number": 0,
@@ -764,6 +764,18 @@
     {
      "url": "https://www.courtlistener.com/docket/73388469/180/trinseo-plc/",
      "description": "Notice"
+    }
+   ]
+  },
+  {
+   "entry_number": 207,
+   "date_filed": "2026-06-11",
+   "description": "Affidavit Re: of Tariful Huq Regarding Notice of Order Establishing Procedures with Respect to Transfers of, and Claims of Worthlessness Deductions by a Majority Shareholder with Respect to, its Benef",
+   "category": "affidavit",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73388469/207/trinseo-plc/",
+     "description": "Affidavit"
     }
    ]
   }
