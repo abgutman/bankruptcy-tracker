@@ -867,3 +867,36 @@
 [2026-06-17 12:34:14 ET]   Abraham Eye Associates, LLC: 18 entries fetched, 3 classified, 3 total classified
 [2026-06-17 12:34:14 ET] === Done fetching docket entries ===
 
+[2026-06-18 12:20:38 ET] === Poll start (since 2026-06-17, live=True) ===
+[2026-06-18 12:20:38 ET]   fetching search page: ...?q=chapter%3A11&type=d&filed_after=2026-06-17&order_by=dateFiled+asc&format=json
+[2026-06-18 12:20:50 ET]   + HIT: Cimino RE Holdings, LLC | 26-17016 | njb | zip=08077 (South Jersey)
+[2026-06-18 12:20:51 ET]   email sent for Cimino RE Holdings, LLC
+[2026-06-18 12:20:56 ET]   fetching search page: ...&filed_after=2026-06-17&format=json&order_by=dateFiled+asc&q=chapter%3A11&type=d
+[2026-06-18 12:21:08 ET]   checked 35 dockets, fetched 35 party records, 1 new local hits
+[2026-06-18 12:21:08 ET] === Poll done. 1 new local hits. ===
+
+[2026-06-18 12:21:08 ET] === Fetching docket entries for 11 case(s) ===
+[2026-06-18 12:21:08 ET]   fetching entries page 1: ...t-entries/?docket=73154006&order_by=entry_number&format=json&entry_number__gt=61
+[2026-06-18 12:21:19 ET]   Erie Kash Out Properties, LLC: 0 entries fetched, 0 classified, 12 total classified
+[2026-06-18 12:21:19 ET]   fetching entries page 1: ...t-entries/?docket=73165305&order_by=entry_number&format=json&entry_number__gt=17
+[2026-06-18 12:21:21 ET]   EEW AOS Paulsboro Urban Renewal, LLC: 0 entries fetched, 0 classified, 2 total classified
+[2026-06-18 12:21:21 ET]   fetching entries page 1: ...-entries/?docket=73165199&order_by=entry_number&format=json&entry_number__gt=150
+[2026-06-18 12:21:26 ET]   EEW American Offshore Structures Inc., et al: 0 entries fetched, 0 classified, 59 total classified
+[2026-06-18 12:21:26 ET]   fetching entries page 1: ...t-entries/?docket=73184787&order_by=entry_number&format=json&entry_number__gt=33
+[2026-06-18 12:21:28 ET]   DILLING PA, LLC d/b/a DILLING HEATING AND COOLING: 0 entries fetched, 0 classified, 9 total classified
+[2026-06-18 12:21:28 ET]   fetching entries page 1: ...-entries/?docket=73205273&order_by=entry_number&format=json&entry_number__gt=572
+[2026-06-18 12:21:29 ET]   QVC Group, Inc.: 2 entries fetched, 0 classified, 162 total classified
+[2026-06-18 12:21:29 ET]   fetching entries page 1: ...t-entries/?docket=73204528&order_by=entry_number&format=json&entry_number__gt=96
+[2026-06-18 12:22:05 ET]   PELCO BUILDERS, INC.: 2 entries fetched, 0 classified, 12 total classified
+[2026-06-18 12:22:05 ET]   fetching entries page 1: ...t-entries/?docket=73209855&order_by=entry_number&format=json&entry_number__gt=64
+[2026-06-18 12:22:07 ET]   RMG Erectors & Constructors of Montana, LLC: 0 entries fetched, 0 classified, 30 total classified
+[2026-06-18 12:22:07 ET]   fetching entries page 1: ...t-entries/?docket=73294617&order_by=entry_number&format=json&entry_number__gt=19
+[2026-06-18 12:22:08 ET]   ONE DOORKNOB AT A TIME, LLC: 0 entries fetched, 0 classified, 7 total classified
+[2026-06-18 12:22:08 ET]   fetching entries page 1: ...-entries/?docket=73388469&order_by=entry_number&format=json&entry_number__gt=229
+[2026-06-18 12:22:18 ET]   Trinseo PLC: 9 entries fetched, 0 classified, 65 total classified
+[2026-06-18 12:22:18 ET]   fetching entries page 1: ...t-entries/?docket=73493488&order_by=entry_number&format=json&entry_number__gt=14
+[2026-06-18 12:22:20 ET]   Abraham Eye Associates, LLC: 3 entries fetched, 0 classified, 3 total classified
+[2026-06-18 12:22:20 ET]   fetching entries page 1: ...om/api/rest/v4/docket-entries/?docket=73496785&order_by=entry_number&format=json
+[2026-06-18 12:22:22 ET]   Cimino RE Holdings, LLC: 3 entries fetched, 2 classified, 2 total classified
+[2026-06-18 12:22:22 ET] === Done fetching docket entries ===
+

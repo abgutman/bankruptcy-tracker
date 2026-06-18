@@ -138,5 +138,19 @@
   "courtlistener_url": "https://www.courtlistener.com/docket/73493488/abraham-eye-associates-llc/",
   "pacer_url": "https://ecf.paeb.uscourts.gov/cgi-bin/DktRpt.pl?523858",
   "captured_at": "2026-06-17T12:32:32-04:00"
+ },
+ "73496785": {
+  "docket_id": 73496785,
+  "case_name": "Cimino RE Holdings, LLC",
+  "debtor_name": "Cimino RE Holdings, LLC",
+  "docket_number": "26-17016",
+  "date_filed": "2026-06-17",
+  "court": "United States Bankruptcy Court, D. New Jersey",
+  "court_id": "njb",
+  "debtor_zip": "08077",
+  "debtor_region": "South Jersey",
+  "courtlistener_url": "https://www.courtlistener.com/docket/73496785/cimino-re-holdings-llc/",
+  "pacer_url": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1143698",
+  "captured_at": "2026-06-18T12:20:50-04:00"
  }
 }
