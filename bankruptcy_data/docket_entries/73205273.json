@@ -1,8 +1,8 @@
 {
  "docket_id": 73205273,
- "last_fetched": "2026-06-23T11:43:54-04:00",
- "last_entry_number": 597,
- "total_entries": 629,
+ "last_fetched": "2026-06-23T17:46:08-04:00",
+ "last_entry_number": 599,
+ "total_entries": 631,
  "classified_entries": [
   {
    "entry_number": 0,
@@ -2060,6 +2060,30 @@
     {
      "url": "https://www.courtlistener.com/docket/73205273/596/qvc-group-inc/",
      "description": "Generic Order"
+    }
+   ]
+  },
+  {
+   "entry_number": 599,
+   "date_filed": "2026-06-23",
+   "description": "Affidavit Re: of Nelson Crespin Regarding Supplemental Declaration of James Mesterharm of AlixPartners, LLP. (related document(s):573 Declaration). Filed by Kroll Restructuring Administration LLC (Ste",
+   "category": "declaration",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/599/qvc-group-inc/",
+     "description": "Affidavit"
+    }
+   ]
+  },
+  {
+   "entry_number": 599,
+   "date_filed": "2026-06-23",
+   "description": "Affidavit Re: of Nelson Crespin Regarding Supplemental Declaration of James Mesterharm of AlixPartners, LLP. (related document(s):573 Declaration). Filed by Kroll Restructuring Administration LLC (Ste",
+   "category": "affidavit",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/599/qvc-group-inc/",
+     "description": "Affidavit"
     }
    ]
   }
