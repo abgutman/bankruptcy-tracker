@@ -1,8 +1,8 @@
 {
  "docket_id": 73205273,
- "last_fetched": "2026-06-22T18:08:17-04:00",
- "last_entry_number": 585,
- "total_entries": 617,
+ "last_fetched": "2026-06-23T11:43:54-04:00",
+ "last_entry_number": 597,
+ "total_entries": 629,
  "classified_entries": [
   {
    "entry_number": 0,
@@ -1964,6 +1964,102 @@
     {
      "url": "https://www.courtlistener.com/docket/73205273/583/qvc-group-inc/",
      "description": "Seal"
+    }
+   ]
+  },
+  {
+   "entry_number": 587,
+   "date_filed": "2026-06-22",
+   "description": "Order Authorizing the Employment of Gray Reed as Co-Counsel to the Debtors and Debtors in Possession, Effective as of the Petition Date, Signed on 6/22/2026 (Related document(s):259 Generic Applicatio",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/587/qvc-group-inc/",
+     "description": "Generic Order"
+    }
+   ]
+  },
+  {
+   "entry_number": 588,
+   "date_filed": "2026-06-22",
+   "description": "Order Authorizing the Employment and Retention of AlixPartners, LLP as Financial Advisor to the Debtors Effective as of the Petition Date, Signed on 6/22/2026 (Related document(s):260 Generic Applicat",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/588/qvc-group-inc/",
+     "description": "Generic Order"
+    }
+   ]
+  },
+  {
+   "entry_number": 589,
+   "date_filed": "2026-06-22",
+   "description": "Order Authorizing (I) the Retention and Employment of Evercore Group L.L.C. as Investment Banker Effective as of the Petition Date and (II) Granting Related Relief, Signed on 6/22/2026 (Related docume",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/589/qvc-group-inc/",
+     "description": "Generic Order"
+    }
+   ]
+  },
+  {
+   "entry_number": 590,
+   "date_filed": "2026-06-22",
+   "description": "Order (I) Authorizing the Retention and Employment of KPMG LLP to Provide Audit and Tax Consulting Services Effective as of the Petition Date and (II) Granting Related Relief, Signed on 6/22/2026 (Rel",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/590/qvc-group-inc/",
+     "description": "Generic Order"
+    }
+   ]
+  },
+  {
+   "entry_number": 593,
+   "date_filed": "2026-06-22",
+   "description": "Order Authorizing the Retention and Employment of Katten Muchin Rosenman LLP as Counsel to QVC, Inc. at the Sole Direction of the Disinterested Directors Effective as of the Petition Date, Signed on 6",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/593/qvc-group-inc/",
+     "description": "Generic Order"
+    }
+   ]
+  },
+  {
+   "entry_number": 594,
+   "date_filed": "2026-06-22",
+   "description": "Order Approving QVC Group, Inc.'s Application for Entry of an Order Authorizing the Retention and Employment of Kobre & Kim LLP as Special Counsel to the Special Committee of the Board of Directors of",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/594/qvc-group-inc/",
+     "description": "Generic Order"
+    }
+   ]
+  },
+  {
+   "entry_number": 595,
+   "date_filed": "2026-06-22",
+   "description": "Order Authorizing the Employment and Retention of Milbank LLP as Counsel to Qurate Retail Group, Inc. and Liberty Interactive LLC Effective as of the Petition Date, Signed on 6/22/2026 (Related docume",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/595/qvc-group-inc/",
+     "description": "Generic Order"
+    }
+   ]
+  },
+  {
+   "entry_number": 596,
+   "date_filed": "2026-06-22",
+   "description": "Order Authorizing the Retention and Employment of Seward & Kissel LLP as Counsel to the Disinterested Directors of QRI Cornerstone, Inc. Effective as of the Petition Date, Signed on 6/22/2026 (Related",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/596/qvc-group-inc/",
+     "description": "Generic Order"
     }
    ]
   }
