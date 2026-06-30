@@ -152,5 +152,19 @@
   "courtlistener_url": "https://www.courtlistener.com/docket/73496785/cimino-re-holdings-llc/",
   "pacer_url": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1143698",
   "captured_at": "2026-06-18T12:20:50-04:00"
+ },
+ "73547623": {
+  "docket_id": 73547623,
+  "case_name": "La Tentacion Pizza & Tex Mex Grille, LLC",
+  "debtor_name": "La Tentacion Pizza & Tex Mex Grille, LLC",
+  "docket_number": "26-17458",
+  "date_filed": "2026-06-29",
+  "court": "United States Bankruptcy Court, D. New Jersey",
+  "court_id": "njb",
+  "debtor_zip": "08093",
+  "debtor_region": "South Jersey",
+  "courtlistener_url": "https://www.courtlistener.com/docket/73547623/la-tentacion-pizza-tex-mex-grille-llc/",
+  "pacer_url": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1144151",
+  "captured_at": "2026-06-30T11:22:46-04:00"
  }
 }

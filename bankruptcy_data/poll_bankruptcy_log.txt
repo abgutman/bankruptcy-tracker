@@ -1599,3 +1599,38 @@
 [2026-06-29 17:39:28 ET]   Cimino RE Holdings, LLC: 2 entries fetched, 0 classified, 2 total classified
 [2026-06-29 17:39:28 ET] === Done fetching docket entries ===
 
+[2026-06-30 11:22:03 ET] === Poll start (since 2026-06-29, live=True) ===
+[2026-06-30 11:22:03 ET]   fetching search page: ...?q=chapter%3A11&type=d&filed_after=2026-06-29&order_by=dateFiled+asc&format=json
+[2026-06-30 11:22:46 ET]   + HIT: La Tentacion Pizza & Tex Mex Grille, LLC | 26-17458 | njb | zip=08093 (South Jersey)
+[2026-06-30 11:22:47 ET]   email sent for La Tentacion Pizza & Tex Mex Grille, LLC
+[2026-06-30 11:23:00 ET]   fetching search page: ...&filed_after=2026-06-29&format=json&order_by=dateFiled+asc&q=chapter%3A11&type=d
+[2026-06-30 11:23:36 ET]   checked 32 dockets, fetched 32 party records, 1 new local hits
+[2026-06-30 11:23:36 ET] === Poll done. 1 new local hits. ===
+
+[2026-06-30 11:23:36 ET] === Fetching docket entries for 12 case(s) ===
+[2026-06-30 11:23:36 ET]   fetching entries page 1: ...t-entries/?docket=73154006&order_by=entry_number&format=json&entry_number__gt=63
+[2026-06-30 11:23:37 ET]   Erie Kash Out Properties, LLC: 0 entries fetched, 0 classified, 12 total classified
+[2026-06-30 11:23:37 ET]   fetching entries page 1: ...t-entries/?docket=73165305&order_by=entry_number&format=json&entry_number__gt=17
+[2026-06-30 11:23:39 ET]   EEW AOS Paulsboro Urban Renewal, LLC: 0 entries fetched, 0 classified, 2 total classified
+[2026-06-30 11:23:39 ET]   fetching entries page 1: ...-entries/?docket=73165199&order_by=entry_number&format=json&entry_number__gt=165
+[2026-06-30 11:23:43 ET]   EEW American Offshore Structures Inc., et al: 0 entries fetched, 0 classified, 59 total classified
+[2026-06-30 11:23:43 ET]   fetching entries page 1: ...t-entries/?docket=73184787&order_by=entry_number&format=json&entry_number__gt=33
+[2026-06-30 11:23:46 ET]   DILLING PA, LLC d/b/a DILLING HEATING AND COOLING: 2 entries fetched, 0 classified, 9 total classified
+[2026-06-30 11:23:46 ET]   fetching entries page 1: ...-entries/?docket=73205273&order_by=entry_number&format=json&entry_number__gt=605
+[2026-06-30 11:23:57 ET]   QVC Group, Inc.: 5 entries fetched, 0 classified, 173 total classified
+[2026-06-30 11:23:57 ET]   fetching entries page 1: ...-entries/?docket=73204528&order_by=entry_number&format=json&entry_number__gt=110
+[2026-06-30 11:24:01 ET]   PELCO BUILDERS, INC.: 0 entries fetched, 0 classified, 12 total classified
+[2026-06-30 11:24:01 ET]   fetching entries page 1: ...t-entries/?docket=73209855&order_by=entry_number&format=json&entry_number__gt=64
+[2026-06-30 11:24:04 ET]   RMG Erectors & Constructors of Montana, LLC: 2 entries fetched, 0 classified, 30 total classified
+[2026-06-30 11:24:04 ET]   fetching entries page 1: ...t-entries/?docket=73294617&order_by=entry_number&format=json&entry_number__gt=19
+[2026-06-30 11:24:06 ET]   ONE DOORKNOB AT A TIME, LLC: 0 entries fetched, 0 classified, 7 total classified
+[2026-06-30 11:24:06 ET]   fetching entries page 1: ...-entries/?docket=73388469&order_by=entry_number&format=json&entry_number__gt=272
+[2026-06-30 11:24:16 ET]   Trinseo PLC: 0 entries fetched, 0 classified, 65 total classified
+[2026-06-30 11:24:16 ET]   fetching entries page 1: ...t-entries/?docket=73493488&order_by=entry_number&format=json&entry_number__gt=40
+[2026-06-30 11:24:18 ET]   Abraham Eye Associates, LLC: 1 entries fetched, 0 classified, 3 total classified
+[2026-06-30 11:24:18 ET]   fetching entries page 1: ...t-entries/?docket=73496785&order_by=entry_number&format=json&entry_number__gt=12
+[2026-06-30 11:24:22 ET]   Cimino RE Holdings, LLC: 0 entries fetched, 0 classified, 2 total classified
+[2026-06-30 11:24:22 ET]   fetching entries page 1: ...om/api/rest/v4/docket-entries/?docket=73547623&order_by=entry_number&format=json
+[2026-06-30 11:24:28 ET]   La Tentacion Pizza & Tex Mex Grille, LLC: 11 entries fetched, 6 classified, 6 total classified
+[2026-06-30 11:24:28 ET] === Done fetching docket entries ===
+

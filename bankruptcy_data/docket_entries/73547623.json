@@ -1,0 +1,112 @@
+{
+ "docket_id": 73547623,
+ "last_fetched": "2026-06-30T11:24:28-04:00",
+ "last_entry_number": 8,
+ "total_entries": 11,
+ "classified_entries": [
+  {
+   "entry_number": 0,
+   "date_filed": "2026-06-29",
+   "description": "Receipt of filing fee for Voluntary Petition (Chapter 11)( 26-17458) [misc,volp11a] (1738.00) Filing Fee. Receipt number A49775468, fee amount $ 1738.00. (re: Doc#1) (U.S. Treasury)",
+   "category": "petition",
+   "recap_documents": []
+  },
+  {
+   "entry_number": 1,
+   "date_filed": "2026-06-29",
+   "description": "Chapter 11 Voluntary Petition Filed by E. Richard Dressel on behalf of La Tentacion Pizza & Tex Mex Grille, LLC. Chapter 11 Plan Subchapter V Due by 09/28/2026. (Dressel, E.) (Entered: 06/29/2026)",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73547623/1/la-tentacion-pizza-tex-mex-grille-llc/",
+     "description": "Voluntary Petition (Chapter 11)"
+    }
+   ]
+  },
+  {
+   "entry_number": 1,
+   "date_filed": "2026-06-29",
+   "description": "Chapter 11 Voluntary Petition Filed by E. Richard Dressel on behalf of La Tentacion Pizza & Tex Mex Grille, LLC. Chapter 11 Plan Subchapter V Due by 09/28/2026. (Dressel, E.) (Entered: 06/29/2026)",
+   "category": "plan",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73547623/1/la-tentacion-pizza-tex-mex-grille-llc/",
+     "description": "Voluntary Petition (Chapter 11)"
+    }
+   ]
+  },
+  {
+   "entry_number": 2,
+   "date_filed": "2026-06-29",
+   "description": "Document re: Statement Regarding Authority to Sign and File Petition filed by E. Richard Dressel on behalf of La Tentacion Pizza & Tex Mex Grille, LLC. (Dressel, E.) (Entered: 06/29/2026)",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73547623/2/la-tentacion-pizza-tex-mex-grille-llc/",
+     "description": "Document"
+    }
+   ]
+  },
+  {
+   "entry_number": 5,
+   "date_filed": "2026-06-29",
+   "description": "Motion re: for the Entry of an Interim Order and a Final Order Authorizing Payment of Pre-petition Wages, Salaries, Withholding Taxes, and Designated Payments Filed by E. Richard Dressel on behalf of ",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73547623/5/la-tentacion-pizza-tex-mex-grille-llc/",
+     "description": "Motion (Generic) - Only use if no other event is applicable"
+    }
+   ]
+  },
+  {
+   "entry_number": 6,
+   "date_filed": "2026-06-29",
+   "description": "Application for Expedited Consideration of First Day Matters (related document:5 Motion (Generic) filed by Debtor La Tentacion Pizza & Tex Mex Grille, LLC) Filed by E. Richard Dressel on behalf of La ",
+   "category": "first_day",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73547623/6/la-tentacion-pizza-tex-mex-grille-llc/",
+     "description": "Expedited Consideration of First Day Matters (For Ch. 11 Cases Only)"
+    }
+   ]
+  }
+ ],
+ "key_dates": {
+  "petition_date": {
+   "date": "2026-06-29",
+   "status": "happened",
+   "source": "case filing"
+  },
+  "first_day_hearing": {
+   "date": "2026-06-29",
+   "status": "happened",
+   "source": "entry #6"
+  },
+  "341_meeting": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "bar_date": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "plan_confirmation": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "sale_deadline": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  }
+ },
+ "flags": {
+  "has_examiner_or_trustee": false,
+  "has_dip_financing": false,
+  "has_sale_process": false
+ }
+}
