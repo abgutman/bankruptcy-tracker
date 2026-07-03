@@ -166,5 +166,19 @@
   "courtlistener_url": "https://www.courtlistener.com/docket/73547623/la-tentacion-pizza-tex-mex-grille-llc/",
   "pacer_url": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1144151",
   "captured_at": "2026-06-30T11:22:46-04:00"
+ },
+ "73571982": {
+  "docket_id": 73571982,
+  "case_name": "Chasseur Realty Investors-Jackson, LLC",
+  "debtor_name": "Chasseur Realty Investors-Jackson, LLC",
+  "docket_number": "26-17694",
+  "date_filed": "2026-07-02",
+  "court": "United States Bankruptcy Court, D. New Jersey",
+  "court_id": "njb",
+  "debtor_zip": "08057",
+  "debtor_region": "South Jersey",
+  "courtlistener_url": "https://www.courtlistener.com/docket/73571982/chasseur-realty-investors-jackson-llc/",
+  "pacer_url": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1144398",
+  "captured_at": "2026-07-03T11:00:58-04:00"
  }
 }

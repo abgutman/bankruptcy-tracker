@@ -1,0 +1,76 @@
+{
+ "docket_id": 73571982,
+ "last_fetched": "2026-07-03T11:01:50-04:00",
+ "last_entry_number": 3,
+ "total_entries": 4,
+ "classified_entries": [
+  {
+   "entry_number": 0,
+   "date_filed": "2026-07-02",
+   "description": "Receipt of filing fee for Voluntary Petition (Chapter 11)( 26-17694) [misc,volp11a] (1738.00) Filing Fee. Receipt number A49794402, fee amount $ 1738.00. (re: Doc#1) (U.S. Treasury)",
+   "category": "petition",
+   "recap_documents": []
+  },
+  {
+   "entry_number": 1,
+   "date_filed": "2026-07-02",
+   "description": "Chapter 11 Voluntary Petition Filed by Edmond M. George on behalf of Chasseur Realty Investors-Jackson, LLC. Chapter 11 Debtors Exclusive Right to File a Plan Expires on 10/30/2026. (Attachments: # 1 ",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73571982/1/chasseur-realty-investors-jackson-llc/",
+     "description": "Voluntary Petition (Chapter 11)"
+    }
+   ]
+  },
+  {
+   "entry_number": 3,
+   "date_filed": "2026-07-02",
+   "description": "Document re: Verification of Creditor Matrix (related document:1 Voluntary Petition (Chapter 11) filed by Debtor Chasseur Realty Investors-Jackson, LLC) filed by Edmond M. George on behalf of Chasseur",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73571982/3/chasseur-realty-investors-jackson-llc/",
+     "description": "Document"
+    }
+   ]
+  }
+ ],
+ "key_dates": {
+  "petition_date": {
+   "date": "2026-07-02",
+   "status": "happened",
+   "source": "case filing"
+  },
+  "first_day_hearing": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "341_meeting": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "bar_date": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "plan_confirmation": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "sale_deadline": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  }
+ },
+ "flags": {
+  "has_examiner_or_trustee": false,
+  "has_dip_financing": false,
+  "has_sale_process": false
+ }
+}
