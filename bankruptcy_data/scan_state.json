@@ -1,5 +1,8 @@
 {
  "backfill_done": true,
  "backfill_through": "2026-06-03",
- "last_poll_date": "2026-07-05"
+ "last_poll_date": "2026-07-06",
+ "seen_dockets": {
+  "73575440": "2026-07-06"
+ }
 }
