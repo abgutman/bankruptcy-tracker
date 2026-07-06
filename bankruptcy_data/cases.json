@@ -180,5 +180,19 @@
   "courtlistener_url": "https://www.courtlistener.com/docket/73571982/chasseur-realty-investors-jackson-llc/",
   "pacer_url": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1144398",
   "captured_at": "2026-07-03T11:00:58-04:00"
+ },
+ "73577342": {
+  "docket_id": 73577342,
+  "case_name": "ASN Investment Group, LLC",
+  "debtor_name": "ASN Investment Group, LLC",
+  "docket_number": "26-12857",
+  "date_filed": "2026-07-06",
+  "court": "United States Bankruptcy Court, E.D. Pennsylvania",
+  "court_id": "paeb",
+  "debtor_zip": "19132",
+  "debtor_region": "Philadelphia",
+  "courtlistener_url": "https://www.courtlistener.com/docket/73577342/asn-investment-group-llc/",
+  "pacer_url": "https://ecf.paeb.uscourts.gov/cgi-bin/DktRpt.pl?524129",
+  "captured_at": "2026-07-06T14:22:03-04:00"
  }
 }
