@@ -20,8 +20,12 @@ on:
         required: false
         default: ''
   schedule:
-    - cron: '0 13 * * *'     # 9:00 AM ET (daily)
-    - cron: '0 20 * * *'     # 4:00 PM ET (daily)
+    - cron: '21 12,16,20,23 * * 1-5'   # 4x weekdays: ~8:21a, 12:21p, 4:21p, 7:21p ET (EDT)
+    - cron: '21 20 * * 0,6'            # weekends: one check ~4:21p ET
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -67,5 +71,9 @@ jobs:
           git add bankruptcy_data/cases.json bankruptcy_data/scan_state.json bankruptcy_data/poll_bankruptcy_log.txt bankruptcy_data/docket_entries/ bankruptcy_data/docket_fetch_state.json bankruptcy_dashboard.html bankruptcy_cases/ 2>/dev/null || true
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "Auto: bankruptcy poll $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git pull --rebase origin main
-          git push
+          ok=0
+          for i in 1 2 3; do
+            if git pull --rebase origin main && git push; then ok=1; break; fi
+            sleep $((i * 7))
+          done
+          if [ "$ok" != "1" ]; then echo "push failed after 3 attempts" >&2; exit 1; fi

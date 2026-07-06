@@ -118,9 +118,18 @@ def scan_dockets(filed_after, filed_before=None, live=False):
     """Search for Chapter 11 dockets, fetch party data, match local zips."""
     local_zips = load_local_zips()
     cases = load_cases()
+    state = load_state()
+    seen_dockets = state.get("seen_dockets", {})
     new_hits = 0
     dockets_checked = 0
     parties_fetched = 0
+    skipped_seen = 0
+
+    # Prune seen_dockets entries older than 14 days
+    cutoff = (datetime.now(ET) - timedelta(days=14)).strftime("%Y-%m-%d")
+    seen_dockets = {k: v for k, v in seen_dockets.items() if v >= cutoff}
+
+    today = datetime.now(ET).strftime("%Y-%m-%d")
 
     params = f"q=chapter%3A11&type=d&filed_after={filed_after}&order_by=dateFiled+asc"
     if filed_before:
@@ -139,6 +148,12 @@ def scan_dockets(filed_after, filed_before=None, live=False):
         for r in results:
             docket_id = str(r.get("docket_id", ""))
             if not docket_id or docket_id in cases:
+                dockets_checked += 1
+                continue
+
+            # Skip dockets already fully evaluated on a previous run
+            if docket_id in seen_dockets:
+                skipped_seen += 1
                 dockets_checked += 1
                 continue
 
@@ -162,11 +177,14 @@ def scan_dockets(filed_after, filed_before=None, live=False):
                 dockets_checked += 1
                 continue
 
+            party_results = party_data.get("results", [])
+            has_parties = len(party_results) > 0
+
             matched_zip = None
             matched_region = None
             debtor_name = case_name
 
-            for party in party_data.get("results", []):
+            for party in party_results:
                 for pt in party.get("party_types", []):
                     if pt.get("name") != "Debtor":
                         continue
@@ -181,6 +199,11 @@ def scan_dockets(filed_after, filed_before=None, live=False):
                     break
 
             dockets_checked += 1
+
+            # Mark seen only if parties arrived OR docket is >3 days old
+            # (fresh dockets with empty party data may be retried next run)
+            if has_parties or (date_filed and date_filed <= (datetime.now(ET) - timedelta(days=3)).strftime("%Y-%m-%d")):
+                seen_dockets[docket_id] = today
 
             if not matched_zip:
                 continue
@@ -226,7 +249,10 @@ def scan_dockets(filed_after, filed_before=None, live=False):
         url = data.get("next")
 
     save_cases(cases)
-    log(f"  checked {dockets_checked} dockets, fetched {parties_fetched} party records, {new_hits} new local hits")
+    # Persist updated seen_dockets back into state
+    state["seen_dockets"] = seen_dockets
+    save_state(state)
+    log(f"  checked {dockets_checked} dockets, skipped {skipped_seen} already-seen, fetched {parties_fetched} party records, {new_hits} new local hits")
     return new_hits
 
 # ── Main ─────────────────────────────────────────────────────────────────────
@@ -252,6 +278,8 @@ def main():
                 end = a.split("=", 1)[1]
         log(f"=== Backfill start (from {start} to {end or 'today'}, live={live}) ===")
         hits = scan_dockets(filed_after=start, filed_before=end, live=live)
+        # Re-read state so we don't overwrite seen_dockets written by scan_dockets
+        state = load_state()
         state["backfill_done"] = True
         state["backfill_through"] = datetime.now(ET).strftime("%Y-%m-%d")
         save_state(state)
@@ -263,6 +291,8 @@ def main():
             last = (datetime.now(ET) - timedelta(days=1)).strftime("%Y-%m-%d")
         log(f"=== Poll start (since {last}, live={live}) ===")
         hits = scan_dockets(filed_after=last, live=live)
+        # Re-read state so we don't overwrite seen_dockets written by scan_dockets
+        state = load_state()
         state["last_poll_date"] = datetime.now(ET).strftime("%Y-%m-%d")
         save_state(state)
         log(f"=== Poll done. {hits} new local hits. ===\n")
