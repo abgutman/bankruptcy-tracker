@@ -1,8 +1,8 @@
 {
  "docket_id": 73205273,
- "last_fetched": "2026-07-15T13:41:48-04:00",
- "last_entry_number": 709,
- "total_entries": 741,
+ "last_fetched": "2026-07-15T17:18:22-04:00",
+ "last_entry_number": 711,
+ "total_entries": 743,
  "classified_entries": [
   {
    "entry_number": 0,
@@ -2084,6 +2084,18 @@
     {
      "url": "https://www.courtlistener.com/docket/73205273/599/qvc-group-inc/",
      "description": "Affidavit"
+    }
+   ]
+  },
+  {
+   "entry_number": 710,
+   "date_filed": "2026-07-15",
+   "description": "Memorandum Decision (I) Approving Disclosure Statement, (II) Confirming Second Amended Plan, and (III) Granting Related Relief, Signed on 7/15/2026 (gc4) (Entered: 07/15/2026)",
+   "category": "plan",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/710/qvc-group-inc/",
+     "description": "Opinion"
     }
    ]
   }
