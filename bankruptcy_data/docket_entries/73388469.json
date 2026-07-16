@@ -1,8 +1,8 @@
 {
  "docket_id": 73388469,
- "last_fetched": "2026-07-16T13:42:33-04:00",
- "last_entry_number": 336,
- "total_entries": 330,
+ "last_fetched": "2026-07-16T17:28:02-04:00",
+ "last_entry_number": 338,
+ "total_entries": 332,
  "classified_entries": [
   {
    "entry_number": 0,
@@ -788,6 +788,18 @@
     {
      "url": "https://www.courtlistener.com/docket/73388469/333/trinseo-plc/",
      "description": "Declaration"
+    }
+   ]
+  },
+  {
+   "entry_number": 337,
+   "date_filed": "2026-07-16",
+   "description": "Objection to Confirmation of Plan Filed by US Trustee. (Related document(s):29 Chapter 11 Plan, 30 Disclosure Statement) (Attachments: # 1 Proposed Order) (Jimenez, Andrew) (Entered: 07/16/2026)",
+   "category": "plan",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73388469/337/trinseo-plc-and-the-official-committee-of-unsecured-creditors/",
+     "description": "Objection to Confirmation of Plan"
     }
    ]
   }
