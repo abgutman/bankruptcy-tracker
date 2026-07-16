@@ -1,8 +1,8 @@
 {
  "docket_id": 73388469,
- "last_fetched": "2026-07-15T20:13:23-04:00",
- "last_entry_number": 332,
- "total_entries": 326,
+ "last_fetched": "2026-07-16T10:27:15-04:00",
+ "last_entry_number": 335,
+ "total_entries": 329,
  "classified_entries": [
   {
    "entry_number": 0,
@@ -776,6 +776,18 @@
     {
      "url": "https://www.courtlistener.com/docket/73388469/207/trinseo-plc/",
      "description": "Affidavit"
+    }
+   ]
+  },
+  {
+   "entry_number": 333,
+   "date_filed": "2026-07-15",
+   "description": "Declaration re: Declaration of Disinterestedness of PricewaterhouseCoopers LLP Pursuant to the Order Authorizing the Retention and Compensation of Certain Professionals Used in the Ordinary Course of ",
+   "category": "declaration",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73388469/333/trinseo-plc/",
+     "description": "Declaration"
     }
    ]
   }
