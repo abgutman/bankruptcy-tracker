@@ -1,8 +1,8 @@
 {
  "docket_id": 73205273,
- "last_fetched": "2026-07-19T17:10:53-04:00",
- "last_entry_number": 721,
- "total_entries": 752,
+ "last_fetched": "2026-07-20T10:35:42-04:00",
+ "last_entry_number": 723,
+ "total_entries": 754,
  "classified_entries": [
   {
    "entry_number": 0,
@@ -2096,6 +2096,30 @@
     {
      "url": "https://www.courtlistener.com/docket/73205273/710/qvc-group-inc/",
      "description": "Opinion"
+    }
+   ]
+  },
+  {
+   "entry_number": 722,
+   "date_filed": "2026-07-20",
+   "description": "Order (I) Approving the Debtors' Disclosure Statement for the Joint Prepackaged Plan of Reorganization of QVC Group, Inc. and Its Debtor Affiliates Pursuant to Chapter 11 of the Bankruptcy Code, (II) ",
+   "category": "opinion",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/722/qvc-group-inc/",
+     "description": "Confirming Chapter 11 Plan"
+    }
+   ]
+  },
+  {
+   "entry_number": 722,
+   "date_filed": "2026-07-20",
+   "description": "Order (I) Approving the Debtors' Disclosure Statement for the Joint Prepackaged Plan of Reorganization of QVC Group, Inc. and Its Debtor Affiliates Pursuant to Chapter 11 of the Bankruptcy Code, (II) ",
+   "category": "plan",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/722/qvc-group-inc/",
+     "description": "Confirming Chapter 11 Plan"
     }
    ]
   }
