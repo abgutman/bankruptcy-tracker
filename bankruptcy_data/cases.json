@@ -194,5 +194,19 @@
   "courtlistener_url": "https://www.courtlistener.com/docket/73577342/asn-investment-group-llc/",
   "pacer_url": "https://ecf.paeb.uscourts.gov/cgi-bin/DktRpt.pl?524129",
   "captured_at": "2026-07-06T14:22:03-04:00"
+ },
+ "73654365": {
+  "docket_id": 73654365,
+  "case_name": "Kepple's Carpet Inc.",
+  "debtor_name": "Kepple's Carpet Inc.",
+  "docket_number": "26-18309",
+  "date_filed": "2026-07-22",
+  "court": "United States Bankruptcy Court, D. New Jersey",
+  "court_id": "njb",
+  "debtor_zip": "08091",
+  "debtor_region": "South Jersey",
+  "courtlistener_url": "https://www.courtlistener.com/docket/73654365/kepple-s-carpet-inc/",
+  "pacer_url": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1145039",
+  "captured_at": "2026-07-23T10:36:18-04:00"
  }
 }
