@@ -1,0 +1,76 @@
+{
+ "docket_id": 73713823,
+ "last_fetched": "2026-08-04T10:44:11-04:00",
+ "last_entry_number": 2,
+ "total_entries": 4,
+ "classified_entries": [
+  {
+   "entry_number": 0,
+   "date_filed": "2026-08-03",
+   "description": "Receipt of Voluntary Petition (Chapter 11)( 26-13288) [misc,volp11a] (1738.00) Filing Fee. Receipt number A33855938. Fee Amount $1738.00. (re: Doc# 1) (U.S. Treasury)",
+   "category": "petition",
+   "recap_documents": []
+  },
+  {
+   "entry_number": 1,
+   "date_filed": "2026-08-03",
+   "description": "Chapter 11 Subchapter V Voluntary Petition for Non-individual. Fee Amount $1738 Filed by Havana Ventures, LLC. Chapter 11 Plan Small Business Subchapter V due by 11/2/2026. Statement of Corporate Owne",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73713823/1/havana-ventures-llc/",
+     "description": "Voluntary Petition (Chapter 11)"
+    }
+   ]
+  },
+  {
+   "entry_number": 1,
+   "date_filed": "2026-08-03",
+   "description": "Chapter 11 Subchapter V Voluntary Petition for Non-individual. Fee Amount $1738 Filed by Havana Ventures, LLC. Chapter 11 Plan Small Business Subchapter V due by 11/2/2026. Statement of Corporate Owne",
+   "category": "plan",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73713823/1/havana-ventures-llc/",
+     "description": "Voluntary Petition (Chapter 11)"
+    }
+   ]
+  }
+ ],
+ "key_dates": {
+  "petition_date": {
+   "date": "2026-08-03",
+   "status": "happened",
+   "source": "case filing"
+  },
+  "first_day_hearing": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "341_meeting": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "bar_date": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "plan_confirmation": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "sale_deadline": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  }
+ },
+ "flags": {
+  "has_examiner_or_trustee": false,
+  "has_dip_financing": false,
+  "has_sale_process": false
+ }
+}

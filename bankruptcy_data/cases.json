@@ -208,5 +208,47 @@
   "courtlistener_url": "https://www.courtlistener.com/docket/73654365/kepple-s-carpet-inc/",
   "pacer_url": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1145039",
   "captured_at": "2026-07-23T10:36:18-04:00"
+ },
+ "73714067": {
+  "docket_id": 73714067,
+  "case_name": "Second Chance CA LLC",
+  "debtor_name": "Second Chance CA LLC",
+  "docket_number": "1:26-bk-11683",
+  "date_filed": "2026-08-03",
+  "court": "United States Bankruptcy Court, C.D. California",
+  "court_id": "cacb",
+  "debtor_zip": "19360",
+  "debtor_region": "Pa suburbs",
+  "courtlistener_url": "https://www.courtlistener.com/docket/73714067/second-chance-ca-llc/",
+  "pacer_url": "https://ecf.cacb.uscourts.gov/cgi-bin/DktRpt.pl?2054479",
+  "captured_at": "2026-08-04T10:43:07-04:00"
+ },
+ "73713823": {
+  "docket_id": 73713823,
+  "case_name": "Havana Ventures, LLC",
+  "debtor_name": "Havana Ventures, LLC",
+  "docket_number": "26-13288",
+  "date_filed": "2026-08-03",
+  "court": "United States Bankruptcy Court, E.D. Pennsylvania",
+  "court_id": "paeb",
+  "debtor_zip": "19122",
+  "debtor_region": "Philadelphia",
+  "courtlistener_url": "https://www.courtlistener.com/docket/73713823/havana-ventures-llc/",
+  "pacer_url": "https://ecf.paeb.uscourts.gov/cgi-bin/DktRpt.pl?524576",
+  "captured_at": "2026-08-04T10:43:13-04:00"
+ },
+ "73709698": {
+  "docket_id": 73709698,
+  "case_name": "LONNEV PROPERTIES LLC",
+  "debtor_name": "LONNEV PROPERTIES LLC",
+  "docket_number": "26-13268",
+  "date_filed": "2026-08-03",
+  "court": "United States Bankruptcy Court, E.D. Pennsylvania",
+  "court_id": "paeb",
+  "debtor_zip": "19142",
+  "debtor_region": "Philadelphia",
+  "courtlistener_url": "https://www.courtlistener.com/docket/73709698/lonnev-properties-llc/",
+  "pacer_url": "https://ecf.paeb.uscourts.gov/cgi-bin/DktRpt.pl?524556",
+  "captured_at": "2026-08-04T10:43:35-04:00"
  }
 }

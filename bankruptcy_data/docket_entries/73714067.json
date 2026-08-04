@@ -1,0 +1,81 @@
+{
+ "docket_id": 73714067,
+ "last_fetched": "2026-08-04T10:44:10-04:00",
+ "last_entry_number": 3,
+ "total_entries": 5,
+ "classified_entries": [
+  {
+   "entry_number": 1,
+   "date_filed": "2026-08-03",
+   "description": "Chapter 11 Subchapter V Voluntary Petition Non-Individual. Fee Amount $1738 Filed by Second Chance CA LLC List of Equity Security Holders due 8/17/2026. Summary of Assets and Liabilities (Form 106Sum ",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73714067/1/second-chance-ca-llc/",
+     "description": "Voluntary Petition (Chapter 11)"
+    }
+   ]
+  },
+  {
+   "entry_number": 1,
+   "date_filed": "2026-08-03",
+   "description": "Chapter 11 Subchapter V Voluntary Petition Non-Individual. Fee Amount $1738 Filed by Second Chance CA LLC List of Equity Security Holders due 8/17/2026. Summary of Assets and Liabilities (Form 106Sum ",
+   "category": "declaration",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73714067/1/second-chance-ca-llc/",
+     "description": "Voluntary Petition (Chapter 11)"
+    }
+   ]
+  },
+  {
+   "entry_number": 1,
+   "date_filed": "2026-08-03",
+   "description": "Chapter 11 Subchapter V Voluntary Petition Non-Individual. Fee Amount $1738 Filed by Second Chance CA LLC List of Equity Security Holders due 8/17/2026. Summary of Assets and Liabilities (Form 106Sum ",
+   "category": "plan",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73714067/1/second-chance-ca-llc/",
+     "description": "Voluntary Petition (Chapter 11)"
+    }
+   ]
+  }
+ ],
+ "key_dates": {
+  "petition_date": {
+   "date": "2026-08-03",
+   "status": "happened",
+   "source": "case filing"
+  },
+  "first_day_hearing": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "341_meeting": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "bar_date": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "plan_confirmation": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "sale_deadline": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  }
+ },
+ "flags": {
+  "has_examiner_or_trustee": false,
+  "has_dip_financing": false,
+  "has_sale_process": false
+ }
+}

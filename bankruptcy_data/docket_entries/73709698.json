@@ -1,0 +1,112 @@
+{
+ "docket_id": 73709698,
+ "last_fetched": "2026-08-04T10:44:13-04:00",
+ "last_entry_number": 6,
+ "total_entries": 11,
+ "classified_entries": [
+  {
+   "entry_number": 0,
+   "date_filed": "2026-08-03",
+   "description": "Receipt of Voluntary Petition (Chapter 11)( 26-13268) [misc,volp11a] (1738.00) Filing Fee. Receipt number A33851289. Fee Amount $1738.00. (re: Doc# 1) (U.S. Treasury)",
+   "category": "petition",
+   "recap_documents": []
+  },
+  {
+   "entry_number": 1,
+   "date_filed": "2026-08-03",
+   "description": "Chapter 11 Voluntary Petition for Non-individual. Fee Amount $1738 Filed by LONNEV PROPERTIES LLC. Chapter 11 Plan due by 12/1/2026. Statement of Corporate Ownership due 08/17/2026. Corporate Resoluti",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73709698/1/lonnev-properties-llc/",
+     "description": "Voluntary Petition (Chapter 11)"
+    }
+   ]
+  },
+  {
+   "entry_number": 1,
+   "date_filed": "2026-08-03",
+   "description": "Chapter 11 Voluntary Petition for Non-individual. Fee Amount $1738 Filed by LONNEV PROPERTIES LLC. Chapter 11 Plan due by 12/1/2026. Statement of Corporate Ownership due 08/17/2026. Corporate Resoluti",
+   "category": "plan",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73709698/1/lonnev-properties-llc/",
+     "description": "Voluntary Petition (Chapter 11)"
+    }
+   ]
+  },
+  {
+   "entry_number": 4,
+   "date_filed": "2026-08-03",
+   "description": "Amended Document Voluntary Petition - amended to include designation as Small Business Debtor purs. to Sec. 101(51D) Filed by TIMOTHY ZEARFOSS on behalf of LONNEV PROPERTIES LLC (related document(s)).",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73709698/4/lonnev-properties-llc/",
+     "description": "Amended Document"
+    }
+   ]
+  },
+  {
+   "entry_number": 5,
+   "date_filed": "2026-08-03",
+   "description": "Order Entered the debtor having failed to file or submit with the petition all of the documents required by Fed. R. Bankr.P.1007, It is hereby ORDERED that this case MAY BE DISMISSED WITHOUT FURTHER N",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73709698/5/lonnev-properties-llc/",
+     "description": "Requiring documents for non-individual cases"
+    }
+   ]
+  },
+  {
+   "entry_number": 5,
+   "date_filed": "2026-08-03",
+   "description": "Order Entered the debtor having failed to file or submit with the petition all of the documents required by Fed. R. Bankr.P.1007, It is hereby ORDERED that this case MAY BE DISMISSED WITHOUT FURTHER N",
+   "category": "plan",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73709698/5/lonnev-properties-llc/",
+     "description": "Requiring documents for non-individual cases"
+    }
+   ]
+  }
+ ],
+ "key_dates": {
+  "petition_date": {
+   "date": "2026-08-03",
+   "status": "happened",
+   "source": "case filing"
+  },
+  "first_day_hearing": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "341_meeting": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "bar_date": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "plan_confirmation": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "sale_deadline": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  }
+ },
+ "flags": {
+  "has_examiner_or_trustee": false,
+  "has_dip_financing": false,
+  "has_sale_process": false
+ }
+}
