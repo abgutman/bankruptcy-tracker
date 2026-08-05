@@ -250,5 +250,19 @@
   "courtlistener_url": "https://www.courtlistener.com/docket/73709698/lonnev-properties-llc/",
   "pacer_url": "https://ecf.paeb.uscourts.gov/cgi-bin/DktRpt.pl?524556",
   "captured_at": "2026-08-04T10:43:35-04:00"
+ },
+ "73715693": {
+  "docket_id": 73715693,
+  "case_name": "Durty Devilz Property Investments, LLC",
+  "debtor_name": "Durty Devilz Property Investments, LLC",
+  "docket_number": "26-13294",
+  "date_filed": "2026-08-04",
+  "court": "United States Bankruptcy Court, E.D. Pennsylvania",
+  "court_id": "paeb",
+  "debtor_zip": "19143",
+  "debtor_region": "Philadelphia",
+  "courtlistener_url": "https://www.courtlistener.com/docket/73715693/durty-devilz-property-investments-llc/",
+  "pacer_url": "https://ecf.paeb.uscourts.gov/cgi-bin/DktRpt.pl?524582",
+  "captured_at": "2026-08-05T10:37:55-04:00"
  }
 }

@@ -1,29 +1,29 @@
 {
- "docket_id": 73577342,
- "last_fetched": "2026-08-05T10:38:42-04:00",
- "last_entry_number": 29,
- "total_entries": 30,
+ "docket_id": 73715693,
+ "last_fetched": "2026-08-05T10:38:49-04:00",
+ "last_entry_number": 7,
+ "total_entries": 9,
  "classified_entries": [
   {
    "entry_number": 1,
-   "date_filed": "2026-07-06",
-   "description": "Chapter 11 Subchapter V Voluntary Petition for Non-individual. Fee Amount $1738 Filed by ASN Investment Group, LLC. Chapter 11 Plan Small Business Subchapter V due by 10/5/2026. Statement of Corporate",
+   "date_filed": "2026-08-04",
+   "description": "Chapter 11 Subchapter V Voluntary Petition for Non-individual. Fee Amount $1738 Filed by Durty Devilz Property Investments, LLC. Chapter 11 Plan Small Business Subchapter V due by 11/2/2026. Corporate",
    "category": "petition",
    "recap_documents": [
     {
-     "url": "https://www.courtlistener.com/docket/73577342/1/asn-investment-group-llc/",
+     "url": "https://www.courtlistener.com/docket/73715693/1/durty-devilz-property-investments-llc/",
      "description": "Voluntary Petition (Chapter 11)"
     }
    ]
   },
   {
    "entry_number": 1,
-   "date_filed": "2026-07-06",
-   "description": "Chapter 11 Subchapter V Voluntary Petition for Non-individual. Fee Amount $1738 Filed by ASN Investment Group, LLC. Chapter 11 Plan Small Business Subchapter V due by 10/5/2026. Statement of Corporate",
+   "date_filed": "2026-08-04",
+   "description": "Chapter 11 Subchapter V Voluntary Petition for Non-individual. Fee Amount $1738 Filed by Durty Devilz Property Investments, LLC. Chapter 11 Plan Small Business Subchapter V due by 11/2/2026. Corporate",
    "category": "plan",
    "recap_documents": [
     {
-     "url": "https://www.courtlistener.com/docket/73577342/1/asn-investment-group-llc/",
+     "url": "https://www.courtlistener.com/docket/73715693/1/durty-devilz-property-investments-llc/",
      "description": "Voluntary Petition (Chapter 11)"
     }
    ]
@@ -31,7 +31,7 @@
  ],
  "key_dates": {
   "petition_date": {
-   "date": "2026-07-06",
+   "date": "2026-08-04",
    "status": "happened",
    "source": "case filing"
   },
