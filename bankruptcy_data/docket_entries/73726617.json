@@ -1,0 +1,100 @@
+{
+ "docket_id": 73726617,
+ "last_fetched": "2026-08-06T10:39:14-04:00",
+ "last_entry_number": 2,
+ "total_entries": 4,
+ "classified_entries": [
+  {
+   "entry_number": 0,
+   "date_filed": "2026-08-05",
+   "description": "Receipt of filing fee for Voluntary Petition (Chapter 11)( 26-18914) [misc,volp11a] (1738.00) Filing Fee. Receipt number A49929753, fee amount $ 1738.00. (re: Doc#1) (U.S. Treasury)",
+   "category": "petition",
+   "recap_documents": []
+  },
+  {
+   "entry_number": 1,
+   "date_filed": "2026-08-05",
+   "description": "Chapter 11 Voluntary Petition Filed by Michael I. Assad on behalf of Sicklerville Soul LLC. Chapter 11 Plan Subchapter V Due by 11/3/2026. (Assad, Michael) (Entered: 08/05/2026)",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73726617/1/sicklerville-soul-llc/",
+     "description": "Voluntary Petition (Chapter 11)"
+    }
+   ]
+  },
+  {
+   "entry_number": 1,
+   "date_filed": "2026-08-05",
+   "description": "Chapter 11 Voluntary Petition Filed by Michael I. Assad on behalf of Sicklerville Soul LLC. Chapter 11 Plan Subchapter V Due by 11/3/2026. (Assad, Michael) (Entered: 08/05/2026)",
+   "category": "plan",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73726617/1/sicklerville-soul-llc/",
+     "description": "Voluntary Petition (Chapter 11)"
+    }
+   ]
+  },
+  {
+   "entry_number": 2,
+   "date_filed": "2026-08-05",
+   "description": "Order to Show Cause Why Case Should Not be Dismissed for re: Failure to File Missing Documents. Missing Documents: Summary of Assets and Liabilities for Non-Individuals, Declaration Under Penalty of P",
+   "category": "declaration",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73726617/2/sicklerville-soul-llc/",
+     "description": "Show Cause"
+    }
+   ]
+  },
+  {
+   "entry_number": 2,
+   "date_filed": "2026-08-05",
+   "description": "Order to Show Cause Why Case Should Not be Dismissed for re: Failure to File Missing Documents. Missing Documents: Summary of Assets and Liabilities for Non-Individuals, Declaration Under Penalty of P",
+   "category": "plan",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73726617/2/sicklerville-soul-llc/",
+     "description": "Show Cause"
+    }
+   ]
+  }
+ ],
+ "key_dates": {
+  "petition_date": {
+   "date": "2026-08-05",
+   "status": "happened",
+   "source": "case filing"
+  },
+  "first_day_hearing": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "341_meeting": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "bar_date": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "plan_confirmation": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "sale_deadline": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  }
+ },
+ "flags": {
+  "has_examiner_or_trustee": false,
+  "has_dip_financing": false,
+  "has_sale_process": false
+ }
+}

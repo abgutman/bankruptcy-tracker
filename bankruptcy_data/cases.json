@@ -264,5 +264,19 @@
   "courtlistener_url": "https://www.courtlistener.com/docket/73715693/durty-devilz-property-investments-llc/",
   "pacer_url": "https://ecf.paeb.uscourts.gov/cgi-bin/DktRpt.pl?524582",
   "captured_at": "2026-08-05T10:37:55-04:00"
+ },
+ "73726617": {
+  "docket_id": 73726617,
+  "case_name": "Sicklerville Soul LLC",
+  "debtor_name": "Sicklerville Soul LLC",
+  "docket_number": "26-18914",
+  "date_filed": "2026-08-05",
+  "court": "United States Bankruptcy Court, D. New Jersey",
+  "court_id": "njb",
+  "debtor_zip": "19138",
+  "debtor_region": "Philadelphia",
+  "courtlistener_url": "https://www.courtlistener.com/docket/73726617/sicklerville-soul-llc/",
+  "pacer_url": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1145657",
+  "captured_at": "2026-08-06T10:38:10-04:00"
  }
 }
