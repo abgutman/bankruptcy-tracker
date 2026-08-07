@@ -1,8 +1,8 @@
 {
  "docket_id": 73726617,
- "last_fetched": "2026-08-06T10:39:14-04:00",
- "last_entry_number": 2,
- "total_entries": 4,
+ "last_fetched": "2026-08-06T20:56:42-04:00",
+ "last_entry_number": 3,
+ "total_entries": 5,
  "classified_entries": [
   {
    "entry_number": 0,
@@ -56,6 +56,30 @@
     {
      "url": "https://www.courtlistener.com/docket/73726617/2/sicklerville-soul-llc/",
      "description": "Show Cause"
+    }
+   ]
+  },
+  {
+   "entry_number": 3,
+   "date_filed": "2026-08-06",
+   "description": "Notice of Hearing for: Subchapter V Status Conference. (related document:[1] Chapter 11 Voluntary Petition Filed by Michael I. Assad on behalf of Sicklerville Soul LLC. Chapter 11 Plan Subchapter V Du",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73726617/3/sicklerville-soul-llc/",
+     "description": "Notice of Hearing (Upload)"
+    }
+   ]
+  },
+  {
+   "entry_number": 3,
+   "date_filed": "2026-08-06",
+   "description": "Notice of Hearing for: Subchapter V Status Conference. (related document:[1] Chapter 11 Voluntary Petition Filed by Michael I. Assad on behalf of Sicklerville Soul LLC. Chapter 11 Plan Subchapter V Du",
+   "category": "plan",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73726617/3/sicklerville-soul-llc/",
+     "description": "Notice of Hearing (Upload)"
     }
    ]
   }
