@@ -1,8 +1,8 @@
 {
  "docket_id": 73726617,
- "last_fetched": "2026-08-11T20:02:56-04:00",
- "last_entry_number": 9,
- "total_entries": 11,
+ "last_fetched": "2026-08-12T09:52:22-04:00",
+ "last_entry_number": 10,
+ "total_entries": 12,
  "classified_entries": [
   {
    "entry_number": 0,
@@ -82,6 +82,18 @@
      "description": "Notice of Hearing (Upload)"
     }
    ]
+  },
+  {
+   "entry_number": 10,
+   "date_filed": "2026-08-12",
+   "description": "Notice of Chapter 11 Bankruptcy Case, Meeting of Creditors with 341(a) meeting to be held on 9/14/2026 at 10:30 AM via Zoomgov-Sponder: join.zoom.us Meeting ID 165 328 01361, Passcode 1042544782, or c",
+   "category": "341_meeting",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73726617/10/sicklerville-soul-llc/",
+     "description": "Meeting of Creditors Chapter 11"
+    }
+   ]
   }
  ],
  "key_dates": {
@@ -96,9 +108,9 @@
    "source": null
   },
   "341_meeting": {
-   "date": null,
-   "status": "unknown",
-   "source": null
+   "date": "2026-08-12",
+   "status": "happened",
+   "source": "entry #10"
   },
   "bar_date": {
    "date": null,
