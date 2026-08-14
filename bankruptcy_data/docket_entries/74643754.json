@@ -1,24 +1,24 @@
 {
- "docket_id": 73654365,
- "last_fetched": "2026-08-14T09:48:36-04:00",
- "last_entry_number": 12,
- "total_entries": 13,
+ "docket_id": 74643754,
+ "last_fetched": "2026-08-14T09:48:43-04:00",
+ "last_entry_number": 1,
+ "total_entries": 2,
  "classified_entries": [
   {
    "entry_number": 0,
-   "date_filed": "2026-07-22",
-   "description": "Receipt of filing fee for Voluntary Petition (Chapter 11)( 26-18309) [misc,volp11a] (1738.00) Filing Fee. Receipt number A49871012, fee amount $ 1738.00. (re: Doc#1) (U.S. Treasury)",
+   "date_filed": "2026-08-13",
+   "description": "Receipt of filing fee for Voluntary Petition (Chapter 11)( 26-19187) [misc,volp11a] (1738.00) Filing Fee. Receipt number A49962125, fee amount $ 1738.00. (re: Doc#1) (U.S. Treasury)",
    "category": "petition",
    "recap_documents": []
   },
   {
    "entry_number": 1,
-   "date_filed": "2026-07-22",
-   "description": "Chapter 11 Voluntary Petition Filed by David A. Kasen on behalf of Kepple's Carpet Inc.. Chapter 11 Small Business Debtors Exclusive Right to File a Plan Expires on 01/18/2027. Chapter 11 Small Busine",
+   "date_filed": "2026-08-13",
+   "description": "Chapter 11 Voluntary Petition Filed by George E Veitengruber III on behalf of The MBEH Group LLC. Chapter 11 Small Business Debtors Exclusive Right to File a Plan Expires on 02/9/2027. Chapter 11 Smal",
    "category": "petition",
    "recap_documents": [
     {
-     "url": "https://www.courtlistener.com/docket/73654365/1/kepples-carpet-inc/",
+     "url": "https://www.courtlistener.com/docket/74643754/1/the-mbeh-group-llc/",
      "description": "Voluntary Petition (Chapter 11)"
     }
    ]
@@ -26,7 +26,7 @@
  ],
  "key_dates": {
   "petition_date": {
-   "date": "2026-07-22",
+   "date": "2026-08-13",
    "status": "happened",
    "source": "case filing"
   },

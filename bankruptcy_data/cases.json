@@ -278,5 +278,19 @@
   "courtlistener_url": "https://www.courtlistener.com/docket/73726617/sicklerville-soul-llc/",
   "pacer_url": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1145657",
   "captured_at": "2026-08-06T10:38:10-04:00"
+ },
+ "74643754": {
+  "docket_id": 74643754,
+  "case_name": "The MBEH Group LLC",
+  "debtor_name": "The MBEH Group LLC",
+  "docket_number": "26-19187",
+  "date_filed": "2026-08-13",
+  "court": "United States Bankruptcy Court, D. New Jersey",
+  "court_id": "njb",
+  "debtor_zip": "08054",
+  "debtor_region": "South Jersey",
+  "courtlistener_url": "https://www.courtlistener.com/docket/74643754/the-mbeh-group-llc/",
+  "pacer_url": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1145939",
+  "captured_at": "2026-08-14T09:47:46-04:00"
  }
 }
