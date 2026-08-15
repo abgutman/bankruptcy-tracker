@@ -1,8 +1,8 @@
 {
  "docket_id": 73726617,
- "last_fetched": "2026-08-14T19:41:18-04:00",
- "last_entry_number": 10,
- "total_entries": 12,
+ "last_fetched": "2026-08-15T16:43:57-04:00",
+ "last_entry_number": 11,
+ "total_entries": 13,
  "classified_entries": [
   {
    "entry_number": 0,
@@ -92,6 +92,18 @@
     {
      "url": "https://www.courtlistener.com/docket/73726617/10/sicklerville-soul-llc/",
      "description": "Meeting of Creditors Chapter 11"
+    }
+   ]
+  },
+  {
+   "entry_number": 11,
+   "date_filed": "2026-08-15",
+   "description": "BNC Certificate of Notice - Meeting of Creditors. No. of Notices: 17. Notice Date 08/14/2026. (Admin.)",
+   "category": "341_meeting",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73726617/11/sicklerville-soul-llc/",
+     "description": "BNC Certificate of Notice - Meeting of Creditors"
     }
    ]
   }
