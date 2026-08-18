@@ -1,8 +1,8 @@
 {
  "docket_id": 73184787,
- "last_fetched": "2026-08-17T19:41:08-04:00",
- "last_entry_number": 52,
- "total_entries": 59,
+ "last_fetched": "2026-08-18T09:11:47-04:00",
+ "last_entry_number": 53,
+ "total_entries": 60,
  "classified_entries": [
   {
    "entry_number": 0,
@@ -106,6 +106,30 @@
      "description": "Proper Form of Petition or Amendment to Petition"
     }
    ]
+  },
+  {
+   "entry_number": 53,
+   "date_filed": "2026-08-17",
+   "description": "Confirmation Hearing Continued on 38 Chapter 11 Plan Small Business Subchapter V Filed by DILLING PA, LLC. Hearing scheduled 09/23/2026 at 09:30 AM at Courtroom #3. (KB) (Entered: 08/17/2026)",
+   "category": "plan",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73184787/53/dilling-pa-llc/",
+     "description": ""
+    }
+   ]
+  },
+  {
+   "entry_number": 53,
+   "date_filed": "2026-08-17",
+   "description": "Confirmation Hearing Continued on 38 Chapter 11 Plan Small Business Subchapter V Filed by DILLING PA, LLC. Hearing scheduled 09/23/2026 at 09:30 AM at Courtroom #3. (KB) (Entered: 08/17/2026)",
+   "category": "confirmation",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73184787/53/dilling-pa-llc/",
+     "description": ""
+    }
+   ]
   }
  ],
  "key_dates": {
@@ -130,9 +154,9 @@
    "source": null
   },
   "plan_confirmation": {
-   "date": null,
-   "status": "unknown",
-   "source": null
+   "date": "2026-08-17",
+   "status": "happened",
+   "source": "entry #53"
   },
   "sale_deadline": {
    "date": null,
