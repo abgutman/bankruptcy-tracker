@@ -8032,3 +8032,53 @@
 [2026-08-20 12:54:39 ET]   The MBEH Group LLC: 0 entries fetched, 0 classified, 2 total classified
 [2026-08-20 12:54:39 ET] === Done fetching docket entries ===
 
+[2026-08-20 16:49:12 ET] === Poll start (since 2026-08-20, live=True) ===
+[2026-08-20 16:49:12 ET]   fetching search page: ...?q=chapter%3A11&type=d&filed_after=2026-08-20&order_by=dateFiled+asc&format=json
+[2026-08-20 16:49:19 ET]   checked 9 dockets, skipped 0 already-seen, fetched 9 party records, 0 new local hits
+[2026-08-20 16:49:19 ET] === Poll done. 0 new local hits. ===
+
+[2026-08-20 16:49:20 ET] === Fetching docket entries for 21 case(s) ===
+[2026-08-20 16:49:20 ET]   fetching entries page 1: ...t-entries/?docket=73154006&order_by=entry_number&format=json&entry_number__gt=75
+[2026-08-20 16:49:21 ET]   Erie Kash Out Properties, LLC: 0 entries fetched, 0 classified, 12 total classified
+[2026-08-20 16:49:21 ET]   fetching entries page 1: ...t-entries/?docket=73165305&order_by=entry_number&format=json&entry_number__gt=19
+[2026-08-20 16:49:22 ET]   EEW AOS Paulsboro Urban Renewal, LLC: 0 entries fetched, 0 classified, 2 total classified
+[2026-08-20 16:49:22 ET]   fetching entries page 1: ...-entries/?docket=73165199&order_by=entry_number&format=json&entry_number__gt=221
+[2026-08-20 16:49:23 ET]   EEW American Offshore Structures Inc., et al: 2 entries fetched, 0 classified, 59 total classified
+[2026-08-20 16:49:23 ET]   fetching entries page 1: ...t-entries/?docket=73184787&order_by=entry_number&format=json&entry_number__gt=53
+[2026-08-20 16:49:25 ET]   DILLING PA, LLC d/b/a DILLING HEATING AND COOLING: 1 entries fetched, 0 classified, 11 total classified
+[2026-08-20 16:49:25 ET]   fetching entries page 1: ...-entries/?docket=73205273&order_by=entry_number&format=json&entry_number__gt=859
+[2026-08-20 16:49:26 ET]   QVC Group, Inc.: 0 entries fetched, 0 classified, 176 total classified
+[2026-08-20 16:49:26 ET]   fetching entries page 1: ...-entries/?docket=73204528&order_by=entry_number&format=json&entry_number__gt=160
+[2026-08-20 16:49:28 ET]   PELCO BUILDERS, INC.: 3 entries fetched, 0 classified, 12 total classified
+[2026-08-20 16:49:28 ET]   fetching entries page 1: ...t-entries/?docket=73209855&order_by=entry_number&format=json&entry_number__gt=80
+[2026-08-20 16:49:29 ET]   RMG Erectors & Constructors of Montana, LLC: 0 entries fetched, 0 classified, 30 total classified
+[2026-08-20 16:49:29 ET]   fetching entries page 1: ...t-entries/?docket=73294617&order_by=entry_number&format=json&entry_number__gt=19
+[2026-08-20 16:49:30 ET]   ONE DOORKNOB AT A TIME, LLC: 0 entries fetched, 0 classified, 7 total classified
+[2026-08-20 16:49:30 ET]   fetching entries page 1: ...-entries/?docket=73388469&order_by=entry_number&format=json&entry_number__gt=573
+[2026-08-20 16:49:32 ET]   Trinseo PLC: 2 entries fetched, 0 classified, 67 total classified
+[2026-08-20 16:49:32 ET]   fetching entries page 1: ...t-entries/?docket=73493488&order_by=entry_number&format=json&entry_number__gt=58
+[2026-08-20 16:49:33 ET]   Abraham Eye Associates, LLC: 0 entries fetched, 0 classified, 3 total classified
+[2026-08-20 16:49:33 ET]   fetching entries page 1: ...t-entries/?docket=73496785&order_by=entry_number&format=json&entry_number__gt=20
+[2026-08-20 16:49:34 ET]   Cimino RE Holdings, LLC: 0 entries fetched, 0 classified, 2 total classified
+[2026-08-20 16:49:34 ET]   fetching entries page 1: ...t-entries/?docket=73547623&order_by=entry_number&format=json&entry_number__gt=35
+[2026-08-20 16:49:35 ET]   La Tentacion Pizza & Tex Mex Grille, LLC: 0 entries fetched, 0 classified, 6 total classified
+[2026-08-20 16:49:35 ET]   fetching entries page 1: ...t-entries/?docket=73571982&order_by=entry_number&format=json&entry_number__gt=62
+[2026-08-20 16:49:36 ET]   Chasseur Realty Investors-Jackson, LLC: 1 entries fetched, 0 classified, 3 total classified
+[2026-08-20 16:49:36 ET]   fetching entries page 1: ...t-entries/?docket=73577342&order_by=entry_number&format=json&entry_number__gt=29
+[2026-08-20 16:49:38 ET]   ASN Investment Group, LLC: 0 entries fetched, 0 classified, 2 total classified
+[2026-08-20 16:49:38 ET]   fetching entries page 1: ...t-entries/?docket=73654365&order_by=entry_number&format=json&entry_number__gt=18
+[2026-08-20 16:49:39 ET]   Kepple's Carpet Inc.: 3 entries fetched, 0 classified, 2 total classified
+[2026-08-20 16:49:39 ET]   fetching entries page 1: ...t-entries/?docket=73714067&order_by=entry_number&format=json&entry_number__gt=11
+[2026-08-20 16:49:40 ET]   Second Chance CA LLC: 0 entries fetched, 0 classified, 3 total classified
+[2026-08-20 16:49:40 ET]   fetching entries page 1: ...t-entries/?docket=73713823&order_by=entry_number&format=json&entry_number__gt=36
+[2026-08-20 16:49:41 ET]   Havana Ventures, LLC: 0 entries fetched, 0 classified, 3 total classified
+[2026-08-20 16:49:41 ET]   fetching entries page 1: ...t-entries/?docket=73709698&order_by=entry_number&format=json&entry_number__gt=18
+[2026-08-20 16:49:43 ET]   LONNEV PROPERTIES LLC: 0 entries fetched, 0 classified, 6 total classified
+[2026-08-20 16:49:43 ET]   fetching entries page 1: ...t-entries/?docket=73715693&order_by=entry_number&format=json&entry_number__gt=24
+[2026-08-20 16:49:44 ET]   Durty Devilz Property Investments, LLC: 0 entries fetched, 0 classified, 2 total classified
+[2026-08-20 16:49:44 ET]   fetching entries page 1: ...t-entries/?docket=73726617&order_by=entry_number&format=json&entry_number__gt=11
+[2026-08-20 16:49:45 ET]   Sicklerville Soul LLC: 0 entries fetched, 0 classified, 9 total classified
+[2026-08-20 16:49:45 ET]   fetching entries page 1: ...et-entries/?docket=74643754&order_by=entry_number&format=json&entry_number__gt=6
+[2026-08-20 16:49:46 ET]   The MBEH Group LLC: 0 entries fetched, 0 classified, 2 total classified
+[2026-08-20 16:49:46 ET] === Done fetching docket entries ===
+
