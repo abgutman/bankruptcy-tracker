@@ -1,8 +1,8 @@
 {
  "docket_id": 73577342,
- "last_fetched": "2026-09-18T12:31:32-04:00",
- "last_entry_number": 36,
- "total_entries": 36,
+ "last_fetched": "2026-09-18T18:39:09-04:00",
+ "last_entry_number": 38,
+ "total_entries": 38,
  "classified_entries": [
   {
    "entry_number": 1,
@@ -25,6 +25,18 @@
     {
      "url": "https://www.courtlistener.com/docket/73577342/1/asn-investment-group-llc/",
      "description": "Voluntary Petition (Chapter 11)"
+    }
+   ]
+  },
+  {
+   "entry_number": 37,
+   "date_filed": "2026-09-18",
+   "description": "Objection to Chapter 11 Subchapter V Petition Objection to Debtor's designation as a Small Business Debtor and election to proceed under Subchapter V. Objection Filed by CM2841 Investors LLC. (related",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73577342/37/asn-investment-group-llc/",
+     "description": "Objection"
     }
    ]
   }
