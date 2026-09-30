@@ -1,8 +1,8 @@
 {
  "docket_id": 73205273,
- "last_fetched": "2026-09-30T14:03:15-04:00",
- "last_entry_number": 1028,
- "total_entries": 1051,
+ "last_fetched": "2026-09-30T19:55:55-04:00",
+ "last_entry_number": 1029,
+ "total_entries": 1052,
  "classified_entries": [
   {
    "entry_number": 0,
@@ -2120,6 +2120,30 @@
     {
      "url": "https://www.courtlistener.com/docket/73205273/722/qvc-group-inc/",
      "description": "Confirming Chapter 11 Plan"
+    }
+   ]
+  },
+  {
+   "entry_number": 1029,
+   "date_filed": "2026-09-30",
+   "description": "Affidavit Re: of Nelson Crespin Regarding Final Application of Pachulski Stang Ziehl & Jones LLP, Counsel to the Official Committee of Unsecured Creditors, for Allowance of Compensation for Services R",
+   "category": "affidavit",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/1029/qvc-group-inc/",
+     "description": ""
+    }
+   ]
+  },
+  {
+   "entry_number": 1029,
+   "date_filed": "2026-09-30",
+   "description": "Affidavit Re: of Nelson Crespin Regarding Final Application of Pachulski Stang Ziehl & Jones LLP, Counsel to the Official Committee of Unsecured Creditors, for Allowance of Compensation for Services R",
+   "category": "dip_financing",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/1029/qvc-group-inc/",
+     "description": ""
     }
    ]
   }
