@@ -1,8 +1,8 @@
 {
  "docket_id": 73205273,
- "last_fetched": "2026-10-01T19:57:18-04:00",
- "last_entry_number": 1029,
- "total_entries": 1052,
+ "last_fetched": "2026-10-02T13:54:22-04:00",
+ "last_entry_number": 1030,
+ "total_entries": 1053,
  "classified_entries": [
   {
    "entry_number": 0,
@@ -2143,6 +2143,30 @@
    "recap_documents": [
     {
      "url": "https://www.courtlistener.com/docket/73205273/1029/qvc-group-inc/",
+     "description": ""
+    }
+   ]
+  },
+  {
+   "entry_number": 1030,
+   "date_filed": "2026-10-01",
+   "description": "Affidavit Re: of Nelson Crespin Regarding Supplemental Declaration of Aparna Yenamandra in Support of the Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Kirklan",
+   "category": "declaration",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/1030/qvc-group-inc/",
+     "description": ""
+    }
+   ]
+  },
+  {
+   "entry_number": 1030,
+   "date_filed": "2026-10-01",
+   "description": "Affidavit Re: of Nelson Crespin Regarding Supplemental Declaration of Aparna Yenamandra in Support of the Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Kirklan",
+   "category": "affidavit",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73205273/1030/qvc-group-inc/",
      "description": ""
     }
    ]
