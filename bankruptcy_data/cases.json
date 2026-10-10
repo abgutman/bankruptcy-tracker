@@ -292,5 +292,19 @@
   "courtlistener_url": "https://www.courtlistener.com/docket/74643754/the-mbeh-group-llc/",
   "pacer_url": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1145939",
   "captured_at": "2026-08-14T09:47:46-04:00"
+ },
+ "74944746": {
+  "docket_id": 74944746,
+  "case_name": "Homey Homes Holdings LLC",
+  "debtor_name": "Homey Homes Holdings LLC",
+  "docket_number": "26-14255",
+  "date_filed": "2026-10-09",
+  "court": "United States Bankruptcy Court, E.D. Pennsylvania",
+  "court_id": "paeb",
+  "debtor_zip": "19125",
+  "debtor_region": "Philadelphia",
+  "courtlistener_url": "https://www.courtlistener.com/docket/74944746/homey-homes-holdings-llc/",
+  "pacer_url": "https://ecf.paeb.uscourts.gov/cgi-bin/DktRpt.pl?525573",
+  "captured_at": "2026-10-09T20:04:22-04:00"
  }
 }
