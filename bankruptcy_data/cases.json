@@ -306,5 +306,19 @@
   "courtlistener_url": "https://www.courtlistener.com/docket/74944746/homey-homes-holdings-llc/",
   "pacer_url": "https://ecf.paeb.uscourts.gov/cgi-bin/DktRpt.pl?525573",
   "captured_at": "2026-10-09T20:04:22-04:00"
+ },
+ "74984878": {
+  "docket_id": 74984878,
+  "case_name": "UTU Corp.",
+  "debtor_name": "UTU Corp.",
+  "docket_number": "26-14387",
+  "date_filed": "2026-10-19",
+  "court": "United States Bankruptcy Court, E.D. Pennsylvania",
+  "court_id": "paeb",
+  "debtor_zip": "19143",
+  "debtor_region": "Philadelphia",
+  "courtlistener_url": "https://www.courtlistener.com/docket/74984878/utu-corp/",
+  "pacer_url": "https://ecf.paeb.uscourts.gov/cgi-bin/DktRpt.pl?525712",
+  "captured_at": "2026-10-19T19:46:10-04:00"
  }
 }
