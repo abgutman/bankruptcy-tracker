@@ -1,8 +1,8 @@
 {
  "docket_id": 74984878,
- "last_fetched": "2026-10-19T19:46:56-04:00",
- "last_entry_number": 3,
- "total_entries": 6,
+ "last_fetched": "2026-10-20T13:20:31-04:00",
+ "last_entry_number": 12,
+ "total_entries": 15,
  "classified_entries": [
   {
    "entry_number": 0,
@@ -34,6 +34,54 @@
      "description": "Voluntary Petition (Chapter 11)"
     }
    ]
+  },
+  {
+   "entry_number": 9,
+   "date_filed": "2026-10-20",
+   "description": "Order Entered the debtor having failed to file or submit with the petition all of the documents required by Fed. R. Bankr.P.1007, It is hereby ORDERED that this case MAY BE DISMISSED WITHOUT FURTHER N",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/74984878/9/utu-corp/",
+     "description": "Requiring documents for non-individual cases"
+    }
+   ]
+  },
+  {
+   "entry_number": 11,
+   "date_filed": "2026-10-20",
+   "description": "Declaration re: Declaration of Debtor's Authorized Representative in Support of Petition and First-Day Motions Filed by MICHAEL I. ASSAD on behalf of UTU Corp. (related document(s)1). (ASSAD, MICHAEL)",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/74984878/11/utu-corp/",
+     "description": "Declaration"
+    }
+   ]
+  },
+  {
+   "entry_number": 11,
+   "date_filed": "2026-10-20",
+   "description": "Declaration re: Declaration of Debtor's Authorized Representative in Support of Petition and First-Day Motions Filed by MICHAEL I. ASSAD on behalf of UTU Corp. (related document(s)1). (ASSAD, MICHAEL)",
+   "category": "declaration",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/74984878/11/utu-corp/",
+     "description": "Declaration"
+    }
+   ]
+  },
+  {
+   "entry_number": 11,
+   "date_filed": "2026-10-20",
+   "description": "Declaration re: Declaration of Debtor's Authorized Representative in Support of Petition and First-Day Motions Filed by MICHAEL I. ASSAD on behalf of UTU Corp. (related document(s)1). (ASSAD, MICHAEL)",
+   "category": "first_day",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/74984878/11/utu-corp/",
+     "description": "Declaration"
+    }
+   ]
   }
  ],
  "key_dates": {
@@ -43,9 +91,9 @@
    "source": "case filing"
   },
   "first_day_hearing": {
-   "date": null,
-   "status": "unknown",
-   "source": null
+   "date": "2026-10-20",
+   "status": "happened",
+   "source": "entry #11"
   },
   "341_meeting": {
    "date": null,
