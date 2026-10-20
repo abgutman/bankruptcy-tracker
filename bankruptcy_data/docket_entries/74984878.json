@@ -1,8 +1,8 @@
 {
  "docket_id": 74984878,
- "last_fetched": "2026-10-20T13:20:31-04:00",
- "last_entry_number": 12,
- "total_entries": 15,
+ "last_fetched": "2026-10-20T19:16:56-04:00",
+ "last_entry_number": 20,
+ "total_entries": 23,
  "classified_entries": [
   {
    "entry_number": 0,
@@ -80,6 +80,18 @@
     {
      "url": "https://www.courtlistener.com/docket/74984878/11/utu-corp/",
      "description": "Declaration"
+    }
+   ]
+  },
+  {
+   "entry_number": 19,
+   "date_filed": "2026-10-20",
+   "description": "Scheduling Order and Notice of Status Conference. Voluntary Petition (Chapter 11) filed by Debtor UTU Corp. (related document(s)[1]). Conference scheduled 12/2/2026 at 12:30 PM at Philadelphia Video H",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/74984878/19/utu-corp/",
+     "description": "Scheduling Order and Notice of Status Conference"
     }
    ]
   }
