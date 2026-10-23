@@ -1,8 +1,8 @@
 {
  "docket_id": 73577342,
- "last_fetched": "2026-10-22T19:27:08-04:00",
- "last_entry_number": 47,
- "total_entries": 45,
+ "last_fetched": "2026-10-23T13:15:52-04:00",
+ "last_entry_number": 49,
+ "total_entries": 47,
  "classified_entries": [
   {
    "entry_number": 1,
@@ -39,6 +39,30 @@
      "description": "Objection"
     }
    ]
+  },
+  {
+   "entry_number": 49,
+   "date_filed": "2026-10-23",
+   "description": "Order Scheduling Hearing re:47 Chapter 11 Plan Small Business Subchapter V (dated October 1, 2026). Confirmation Hearing scheduled 12/1/2026 at 01:00 PM at Courtroom #2. (SJM) (Entered: 10/23/2026)",
+   "category": "plan",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73577342/49/asn-investment-group-llc/",
+     "description": "Scheduling Hearing"
+    }
+   ]
+  },
+  {
+   "entry_number": 49,
+   "date_filed": "2026-10-23",
+   "description": "Order Scheduling Hearing re:47 Chapter 11 Plan Small Business Subchapter V (dated October 1, 2026). Confirmation Hearing scheduled 12/1/2026 at 01:00 PM at Courtroom #2. (SJM) (Entered: 10/23/2026)",
+   "category": "confirmation",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73577342/49/asn-investment-group-llc/",
+     "description": "Scheduling Hearing"
+    }
+   ]
   }
  ],
  "key_dates": {
@@ -63,9 +87,9 @@
    "source": null
   },
   "plan_confirmation": {
-   "date": null,
-   "status": "unknown",
-   "source": null
+   "date": "2026-10-23",
+   "status": "happened",
+   "source": "entry #49"
   },
   "sale_deadline": {
    "date": null,
