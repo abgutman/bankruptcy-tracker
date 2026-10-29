@@ -1,0 +1,112 @@
+{
+ "docket_id": 75037009,
+ "last_fetched": "2026-10-29T14:34:01-04:00",
+ "last_entry_number": 10,
+ "total_entries": 15,
+ "classified_entries": [
+  {
+   "entry_number": 0,
+   "date_filed": "2026-10-28",
+   "description": "Receipt of Voluntary Petition (Chapter 11)( 26-14549) [misc,volp11a] (1738.00) Filing Fee. Receipt number A35017427. Fee Amount $1738.00. (re: Doc# 1) (U.S. Treasury)",
+   "category": "petition",
+   "recap_documents": []
+  },
+  {
+   "entry_number": 1,
+   "date_filed": "2026-10-28",
+   "description": "Chapter 11 Voluntary Petition for Non-individual. Fee Amount $1738 Filed by Integrity Networks, Inc.. Chapter 11 Plan due by 02/25/2027. Statement of Corporate Ownership due 11/12/2026. Incomplete Fil",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/75037009/1/integrity-networks-inc/",
+     "description": "Voluntary Petition (Chapter 11)"
+    }
+   ]
+  },
+  {
+   "entry_number": 1,
+   "date_filed": "2026-10-28",
+   "description": "Chapter 11 Voluntary Petition for Non-individual. Fee Amount $1738 Filed by Integrity Networks, Inc.. Chapter 11 Plan due by 02/25/2027. Statement of Corporate Ownership due 11/12/2026. Incomplete Fil",
+   "category": "plan",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/75037009/1/integrity-networks-inc/",
+     "description": "Voluntary Petition (Chapter 11)"
+    }
+   ]
+  },
+  {
+   "entry_number": 7,
+   "date_filed": "2026-10-29",
+   "description": "Order Entered the debtor having failed to file or submit with the petition all of the documents required by Fed. R. Bankr.P.1007, It is hereby ORDERED that this case MAY BE DISMISSED WITHOUT FURTHER N",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/75037009/7/integrity-networks-inc/",
+     "description": "Requiring documents for non-individual cases"
+    }
+   ]
+  },
+  {
+   "entry_number": 7,
+   "date_filed": "2026-10-29",
+   "description": "Order Entered the debtor having failed to file or submit with the petition all of the documents required by Fed. R. Bankr.P.1007, It is hereby ORDERED that this case MAY BE DISMISSED WITHOUT FURTHER N",
+   "category": "plan",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/75037009/7/integrity-networks-inc/",
+     "description": "Requiring documents for non-individual cases"
+    }
+   ]
+  },
+  {
+   "entry_number": 9,
+   "date_filed": "2026-10-29",
+   "description": "Application to Employ Ciardi Ciardi & Astin as Counsel to the Debtor Filed by Integrity Networks, Inc. Represented by Albert Anthony Ciardi III(Counsel). (Attachments: # 1 Notice of Application # 2 De",
+   "category": "declaration",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/75037009/9/integrity-networks-inc/",
+     "description": "Employ"
+    }
+   ]
+  }
+ ],
+ "key_dates": {
+  "petition_date": {
+   "date": "2026-10-28",
+   "status": "happened",
+   "source": "case filing"
+  },
+  "first_day_hearing": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "341_meeting": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "bar_date": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "plan_confirmation": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "sale_deadline": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  }
+ },
+ "flags": {
+  "has_examiner_or_trustee": false,
+  "has_dip_financing": false,
+  "has_sale_process": false
+ }
+}

@@ -320,5 +320,33 @@
   "courtlistener_url": "https://www.courtlistener.com/docket/74984878/utu-corp/",
   "pacer_url": "https://ecf.paeb.uscourts.gov/cgi-bin/DktRpt.pl?525712",
   "captured_at": "2026-10-19T19:46:10-04:00"
+ },
+ "75037009": {
+  "docket_id": 75037009,
+  "case_name": "Integrity Networks, Inc.",
+  "debtor_name": "Integrity Networks, Inc.",
+  "docket_number": "26-14549",
+  "date_filed": "2026-10-28",
+  "court": "United States Bankruptcy Court, E.D. Pennsylvania",
+  "court_id": "paeb",
+  "debtor_zip": "19087",
+  "debtor_region": "Pa suburbs",
+  "courtlistener_url": "https://www.courtlistener.com/docket/75037009/integrity-networks-inc/",
+  "pacer_url": "https://ecf.paeb.uscourts.gov/cgi-bin/DktRpt.pl?525876",
+  "captured_at": "2026-10-29T14:31:41-04:00"
+ },
+ "75036809": {
+  "docket_id": 75036809,
+  "case_name": "Integrity Group of Companies, LLC",
+  "debtor_name": "Integrity Group of Companies, LLC",
+  "docket_number": "26-14548",
+  "date_filed": "2026-10-28",
+  "court": "United States Bankruptcy Court, E.D. Pennsylvania",
+  "court_id": "paeb",
+  "debtor_zip": "19087",
+  "debtor_region": "Pa suburbs",
+  "courtlistener_url": "https://www.courtlistener.com/docket/75036809/integrity-group-of-companies-llc/",
+  "pacer_url": "https://ecf.paeb.uscourts.gov/cgi-bin/DktRpt.pl?525875",
+  "captured_at": "2026-10-29T14:31:43-04:00"
  }
 }
