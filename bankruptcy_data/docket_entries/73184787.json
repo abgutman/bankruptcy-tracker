@@ -1,8 +1,8 @@
 {
  "docket_id": 73184787,
- "last_fetched": "2026-10-28T14:23:15-04:00",
- "last_entry_number": 73,
- "total_entries": 78,
+ "last_fetched": "2026-10-28T20:03:31-04:00",
+ "last_entry_number": 74,
+ "total_entries": 79,
  "classified_entries": [
   {
    "entry_number": 0,
@@ -130,6 +130,18 @@
      "description": ""
     }
    ]
+  },
+  {
+   "entry_number": 74,
+   "date_filed": "2026-10-28",
+   "description": "Order Granting Motion To Set Last Day To File Proofs of Claim and Manner of Notice (Related Doc # 73) Proofs of Claims due by 12/4/2026. Government Proof of Claim Deadline: 4/26/2027. (LAE) (Entered: ",
+   "category": "bar_date",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/73184787/74/dilling-pa-llc/",
+     "description": "Set Last Day To File Proofs of Claim"
+    }
+   ]
   }
  ],
  "key_dates": {
@@ -149,9 +161,9 @@
    "source": "entry #16"
   },
   "bar_date": {
-   "date": null,
-   "status": "unknown",
-   "source": null
+   "date": "2026-10-28",
+   "status": "happened",
+   "source": "entry #74"
   },
   "plan_confirmation": {
    "date": "2026-08-17",
