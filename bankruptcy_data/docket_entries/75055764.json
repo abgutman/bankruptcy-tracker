@@ -1,0 +1,105 @@
+{
+ "docket_id": 75055764,
+ "last_fetched": "2026-11-02T17:47:17-04:00",
+ "last_entry_number": 12,
+ "total_entries": 15,
+ "classified_entries": [
+  {
+   "entry_number": 1,
+   "date_filed": "2026-11-01",
+   "description": "Chapter 11 Voluntary Petition for Non-individual. Fee Amount $1738 Filed by Holy Redeemer Health System. Chapter 11 Plan due by 03/1/2027. Matrix List of Creditors due 11/9/2026. Incomplete Filings du",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/75055764/1/holy-redeemer-health-system/",
+     "description": "Voluntary Petition (Chapter 11)"
+    }
+   ]
+  },
+  {
+   "entry_number": 1,
+   "date_filed": "2026-11-01",
+   "description": "Chapter 11 Voluntary Petition for Non-individual. Fee Amount $1738 Filed by Holy Redeemer Health System. Chapter 11 Plan due by 03/1/2027. Matrix List of Creditors due 11/9/2026. Incomplete Filings du",
+   "category": "plan",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/75055764/1/holy-redeemer-health-system/",
+     "description": "Voluntary Petition (Chapter 11)"
+    }
+   ]
+  },
+  {
+   "entry_number": 7,
+   "date_filed": "2026-11-01",
+   "description": "Declaration re: Declaration of James Logue in Support of Petitions and First Day Pleadings Filed by ANNE M. AARONSON on behalf of Holy Redeemer Health System. (Attachments: # 1 Exhibit A - Consolidate",
+   "category": "petition",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/75055764/7/holy-redeemer-health-system/",
+     "description": "Declaration"
+    }
+   ]
+  },
+  {
+   "entry_number": 7,
+   "date_filed": "2026-11-01",
+   "description": "Declaration re: Declaration of James Logue in Support of Petitions and First Day Pleadings Filed by ANNE M. AARONSON on behalf of Holy Redeemer Health System. (Attachments: # 1 Exhibit A - Consolidate",
+   "category": "declaration",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/75055764/7/holy-redeemer-health-system/",
+     "description": "Declaration"
+    }
+   ]
+  },
+  {
+   "entry_number": 7,
+   "date_filed": "2026-11-01",
+   "description": "Declaration re: Declaration of James Logue in Support of Petitions and First Day Pleadings Filed by ANNE M. AARONSON on behalf of Holy Redeemer Health System. (Attachments: # 1 Exhibit A - Consolidate",
+   "category": "first_day",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/75055764/7/holy-redeemer-health-system/",
+     "description": "Declaration"
+    }
+   ]
+  }
+ ],
+ "key_dates": {
+  "petition_date": {
+   "date": "2026-11-01",
+   "status": "happened",
+   "source": "case filing"
+  },
+  "first_day_hearing": {
+   "date": "2026-11-01",
+   "status": "happened",
+   "source": "entry #7"
+  },
+  "341_meeting": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "bar_date": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "plan_confirmation": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  },
+  "sale_deadline": {
+   "date": null,
+   "status": "unknown",
+   "source": null
+  }
+ },
+ "flags": {
+  "has_examiner_or_trustee": false,
+  "has_dip_financing": false,
+  "has_sale_process": false
+ }
+}

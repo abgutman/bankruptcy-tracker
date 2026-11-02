@@ -1,8 +1,8 @@
 {
  "docket_id": 74984878,
- "last_fetched": "2026-11-01T19:42:24-04:00",
- "last_entry_number": 57,
- "total_entries": 60,
+ "last_fetched": "2026-11-02T17:47:12-04:00",
+ "last_entry_number": 63,
+ "total_entries": 66,
  "classified_entries": [
   {
    "entry_number": 0,
@@ -176,6 +176,18 @@
     {
      "url": "https://www.courtlistener.com/docket/74984878/50/utu-corp/",
      "description": "Order on Motion to Pay"
+    }
+   ]
+  },
+  {
+   "entry_number": 63,
+   "date_filed": "2026-11-01",
+   "description": "BNC Certificate of Mailing - Meeting of Creditors. Number of Notices Mailed: (related document(s) (Related Doc [35])). No. of Notices: 42. Notice Date 11/01/2026. (Admin.)",
+   "category": "341_meeting",
+   "recap_documents": [
+    {
+     "url": "https://www.courtlistener.com/docket/74984878/63/utu-corp/",
+     "description": "BNC Certificate of Mailing - Meeting of Creditors"
     }
    ]
   }

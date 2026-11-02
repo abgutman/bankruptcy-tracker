@@ -348,5 +348,19 @@
   "courtlistener_url": "https://www.courtlistener.com/docket/75036809/integrity-group-of-companies-llc/",
   "pacer_url": "https://ecf.paeb.uscourts.gov/cgi-bin/DktRpt.pl?525875",
   "captured_at": "2026-10-29T14:31:43-04:00"
+ },
+ "75055764": {
+  "docket_id": 75055764,
+  "case_name": "Holy Redeemer Health System",
+  "debtor_name": "Holy Redeemer Health System",
+  "docket_number": "26-14632",
+  "date_filed": "2026-11-01",
+  "court": "United States Bankruptcy Court, E.D. Pennsylvania",
+  "court_id": "paeb",
+  "debtor_zip": "19046",
+  "debtor_region": "Pa suburbs",
+  "courtlistener_url": "https://www.courtlistener.com/docket/75055764/holy-redeemer-health-system/",
+  "pacer_url": "https://ecf.paeb.uscourts.gov/cgi-bin/DktRpt.pl?525959",
+  "captured_at": "2026-11-02T17:45:50-04:00"
  }
 }
